@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiBook",
       "LiMap",
       "LiUploadCloud",
-      "LiSparkles",
-      "LiFileText"
+      "LiSparkles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "4 - Areas": "LiMapPin",
   "8 - Archives": "LiArchive",
   "1 - Map Of Contents": "LiMap",
-  "5 - Projects": "LiBriefcase"
+  "5 - Projects": "LiBriefcase",
+  "9 - Unsorted": "LiArchive"
 }
