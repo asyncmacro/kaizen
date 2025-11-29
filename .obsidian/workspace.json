@@ -11,10 +11,14 @@
             "id": "0e2e7a7e2b6b348a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000 - Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 - Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000 - Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "000 - Inbox/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -173,11 +180,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "de0ee4ceab99441a",
+  "active": "0e2e7a7e2b6b348a",
   "lastOpenFiles": [
+    "000 - Inbox/Performance Record DB.md",
+    "000 - Inbox/Untitled.md",
+    "000 - Inbox/Untitled 1.base",
+    "000 - Inbox/Untitled.base",
+    "000 - Inbox/things_i_did.md",
+    "000 - Inbox/Projects-Ideas.md",
+    "000 - Inbox/Projects Ideas.md",
+    "000 - Inbox/JavaScript Origin Story.md",
+    "000 - Inbox/David Talk.md",
+    "000 - Inbox/Epic Federation.md",
+    "000 - Inbox/Courses I want to learn.md",
     "900 - System/vault-sync.sh",
     "900 - System/sync-termux.sh~",
     "900 - System/sync-termux.sh",
