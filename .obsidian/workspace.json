@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "413a81bd63fa2d49",
+        "id": "526cfbdd0f651709",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d12aab5bb352cf",
+            "id": "f18ac5aa8daaa5fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettelkasten/`Object.preventExtensions`.md",
+                "file": "300 - Zettelkasten/useState should not be used when the state is used internally only with no UI update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "`Object.preventExtensions`"
+              "title": "useState should not be used when the state is used internally only with no UI update"
             }
           }
         ]
@@ -172,45 +172,46 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e6d12aab5bb352cf",
+  "active": "f18ac5aa8daaa5fa",
   "lastOpenFiles": [
-    "9 - Unsorted/Templates/T - Zettelkasten.md",
-    "3 - Zettelkasten/`Object.preventExtensions`.md",
-    "0 - Inbox/Untitled 1.base",
-    "0 - Inbox/Untitled.base",
-    "4 - Areas/Area - DSA Study Plan.md",
-    "0 - Inbox/Projects Ideas.md",
-    "0 - Inbox/Untitled.md",
-    "4 - Areas/Area - DSA Study Plan - Phase 1.md",
-    "0 - Inbox/Courses I want to learn.md",
-    "0 - Inbox/David Talk.md",
-    "3 - Zettelkasten/JavaScript Origin Story.md",
-    "3 - Zettelkasten/What is storybook.md",
-    "0 - Inbox/Jest Docs.md",
-    "0 - Inbox/Math Percentage.md",
-    "7 - Prompts/Prompt - ChatGPT - Module Study Plan UX-UI-Frontend.md",
-    "0 - Inbox/What is Kadane's algorithm.md",
-    "0 - Inbox/What is a bundler.md",
-    "0 - Inbox/Why Use Storybook?.md",
-    "3 - Zettelkasten/What is space-complexity.md",
-    "1 - Map Of Contents/MOC JavaScript.md",
-    "3 - Zettelkasten/What is time-complexity.md",
-    "3 - Zettelkasten/What are the common time complexities.md",
-    "conflict-files-obsidian-git.md",
-    "3 - Zettelkasten/What is tsup.md",
-    "3 - Zettelkasten/What is the semantic HTML header element.md",
-    "3 - Zettelkasten/What is the footer HTML element.md",
-    "3 - Zettelkasten/How to configure tsup.md",
-    "3 - Zettelkasten/What is the article HTML element.md",
-    "70 - Unsorted/Articles",
-    "70 - Unsorted"
+    "300 - Zettelkasten/Each DBMS handles auto incrementing differently.md",
+    "300 - Zettelkasten/Space complexity measures the space taken by algorithm's input and during execution.md",
+    "300 - Zettelkasten/Route handlers are functions meant to be executed for each incoming request.md",
+    "300 - Zettelkasten/RegExpRouter is Hono's router that uses RegEx similar to express.js.md",
+    "300 - Zettelkasten/Pure function is a function with no side effects and returns save value given the same input.md",
+    "300 - Zettelkasten/Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
+    "300 - Zettelkasten/Prepositional Phrase starts with preposition and ends with object of preposition with optional modifiers in the middle.md",
+    "300 - Zettelkasten/PatternRouter is Hono's router that uses list to register routes.md",
+    "000 - Inbox/JavaScript Origin Story.md",
+    "300 - Zettelkasten/MOC JavaScript.md",
+    "300 - Zettelkasten/Hono provides custom Error type for throwing errors inside handlers with custom body and headers.md",
+    "300 - Zettelkasten/c.header Helper function allows to set headers for response.md",
+    "300 - Zettelkasten/Hono provides helper function for responding in JSON by using c.json helper function.md",
+    "300 - Zettelkasten/Hono.all allows handler to be registered for all type of methods.md",
+    "300 - Zettelkasten/Hono.<get,post,...> allows to register route handlers and middlewares.md",
+    "300 - Zettelkasten/Hono's app.on allows to register single handler for multiple request methods and paths.md",
+    "300 - Zettelkasten/Middlewares from hono allow to execute after request has been handled by awaiting next function call.md",
+    "300 - Zettelkasten/Use app.onError to handle thrown exceptions inside route handlers.md",
+    "300 - Zettelkasten/Middlewares in Hono allows to attach custom values in context to use later.md",
+    "300 - Zettelkasten/Hono allows to set custom Not Found handlers for all requests by passing route handler to app.notFound.md",
+    "300 - Zettelkasten/tsup Can be configured to customize the output by exporting defineConfig from the configuration file.md",
+    "300 - Zettelkasten/Hono allows to access query parameters by calling c.req.query.md",
+    "300 - Zettelkasten/Hono provides path parameters by calling ctx.req.params function.md",
+    "300 - Zettelkasten/Tree Shaking Works by analyzing and removing safe to remove code.md",
+    "300 - Zettelkasten/Hono's TrieRouter builds a tree for the router with each node as a segment for fast lookups.md",
+    "300 - Zettelkasten/Hono's RegExpRouter Limitations.md",
+    "000 - Inbox/Untitled.base",
+    "000 - Inbox/Untitled 1.base",
+    "Helicon/300 - Projects & Areas/310 - Active Projects/Advanced TypeScript/_Notes",
+    "Helicon/300 - Projects & Areas/310 - Active Projects/Quescape",
+    "Helicon/300 - Projects & Areas/310 - Active Projects/PixlFlow",
+    "Helicon/300 - Projects & Areas/310 - Active Projects/Advanced TypeScript",
+    "900 - System/990 - Archive",
+    "900 - System/920 - Prompts",
+    "900 - System/910 - Templates",
+    "Helicon/400 - The Library/420 - Articles"
   ]
 }

@@ -34,18 +34,18 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "0 - Inbox": "LiInbox",
   "5 - Content Creation": "LiPencilLine",
   "5 - Content Creation/Ideas": "LiSparkles",
   "5 - Content Creation/Drafts": "LiFileText",
   "5 - Content Creation/Published": "LiUploadCloud",
   "6 - Daily Notes": "LiCalendarDays",
   "7 - Unsorted": "LiBox",
-  "3 - Zettelkasten": "LiLayers",
-  "2 - Source Notes": "LiBook",
-  "4 - Areas": "LiMapPin",
   "8 - Archives": "LiArchive",
-  "1 - Map Of Contents": "LiMap",
-  "5 - Projects": "LiBriefcase",
-  "9 - Unsorted": "LiArchive"
+  "900 - System": "LiArchive",
+  "500 - Projects": "LiBriefcase",
+  "400 - Areas": "LiMapPin",
+  "000 - Inbox": "LiInbox",
+  "100 - Map Of Contents": "LiMap",
+  "300 - Zettelkasten": "LiLayers",
+  "200 - Source": "LiBook"
 }
