@@ -1,11 +1,14 @@
 ---
-aliases: [] # Alternative names/synonyms for this concept
-tags: [topic/, concept/, status/seedling] # Always replace placeholders. status: seedling (draft), evergreen (polished)
-UID: {{date:YYYYMMDDhhmm}} # A unique ID for stable linking (e.g., 202511251252)
-date-created: {{date:YYYY-MM-DD}}
+aliases: []
+tags:
+  - topic/
+  - concept/
+  - status/seedling
+UID: <% tp.file.creation_date("YYYYMMDDhhmm") %>
+date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
-# 💡 {{title}}
+# 💡 <% tp.file.title %>
 
 ## 1. The Idea
 (Write the single, autonomous idea here in your own words. Be clear and concise. If the note is long, use bolding or simple lists to make it scannable.)
