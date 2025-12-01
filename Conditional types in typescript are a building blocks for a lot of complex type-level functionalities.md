@@ -1,9 +1,8 @@
 ---
 aliases: []
 tags:
-  - topic/
-  - concept/
-  - status/seedling
+  - topic/typescript
+  - concept/conditional-types
 UID: 202512010850
 date-created: 2025-12-01
 ---
@@ -34,9 +33,8 @@ type B = IsString<string> // B: true
 
 ## 2. Connections & Synthesis
 
-* [[Existing Zettel 1 - The Main Link]] (This idea relates to X by demonstrating the need for isolation.)
-* [[Existing Zettel 2 - The Opposite/Analogy Link]] (This parallels the concept of Y in the domain of Z.)
-* [[MOC - Relevant Map of Content]] (If this idea fits into a major MOC, link it here.)
+* [[Typescript conditionals distributes on unions by default]] (this explains how conditionals behave with unions)
+* [[Never the type that excludes certain conditional blocks]] (explains how never helps excluding branches in type conditionals)
 
 ## 3. Source & Reference
 * **Original Source:** 

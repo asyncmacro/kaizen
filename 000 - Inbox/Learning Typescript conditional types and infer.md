@@ -17,6 +17,8 @@ in this example, the type A is made into two conditional syntax:
 
 which would result in A being `string` type
 
+---------
+
 to escape the union distribution, use tuple wrapping
 
 ```typescript
