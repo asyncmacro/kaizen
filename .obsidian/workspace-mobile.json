@@ -11,10 +11,14 @@
             "id": "de5964984dacc543",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000 - Inbox/Learning Typescript conditional types and infer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Learning Typescript conditional types and infer"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "000 - Inbox/Learning Typescript conditional types and infer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,5 +168,7 @@
     }
   },
   "active": "de5964984dacc543",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md"
+  ]
 }
