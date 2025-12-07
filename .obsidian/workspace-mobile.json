@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 - Inbox/Pelvic Floor Alt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Pelvic Floor Alt"
+              "title": "New tab"
             }
           }
         ]
@@ -183,9 +179,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "000 - Inbox/Pelvic Floor Alt.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
     "000 - Inbox/Tanstack Router.md",
-    "000 - Inbox/Pelvic Floor Alt.md",
     "000 - Inbox/Untitled.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",
     "Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md"
