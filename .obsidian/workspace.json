@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Inbox/Pelvic Floor Alt.md",
+                "file": "000 - Inbox/Learning Typescript conditional types and infer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pelvic Floor Alt"
+              "title": "Learning Typescript conditional types and infer"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "000 - Inbox/Pelvic Floor Alt.md",
     "000 - Inbox/Untitled.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
     "100 - Map Of Contents/🏡 Dashboard.md~",
@@ -215,7 +216,6 @@
     "300 - Zettelkasten/_footer_ HTML element is for content at bottom of page.md",
     "300 - Zettelkasten/_article_ semantic HTML element is for content that can be understood on its own.md",
     "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
-    "000 - Inbox/Pelvic Floor Alt.md",
     "300 - Zettelkasten/The infer keyword is helpful extracting sub-types out of other types.md",
     "300 - Zettelkasten/Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",

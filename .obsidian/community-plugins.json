@@ -1,8 +1,5 @@
 [
   "obsidian-icon-folder",
-  "better-word-count",
-  "templater-obsidian",
-  "vimium",
   "shiki-highlighter",
   "obsidian-git",
   "tag-wrangler",
@@ -18,5 +15,6 @@
   "obsidian-style-settings",
   "quickadd",
   "custom-classes",
-  "obsidian-stylist"
+  "obsidian-stylist",
+  "lazy-plugins"
 ]
