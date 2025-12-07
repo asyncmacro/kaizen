@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "738e571ba2948db8",
+        "id": "08ecbe188175e86f",
         "type": "tabs",
         "children": [
           {
-            "id": "e64dedf507037c15",
+            "id": "b80a4ce4d6117191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Inbox/Tanstack Router.md",
+                "file": "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tanstack Router"
+              "title": "Recursive types in TypeScript breaks problems into sub-problems"
             }
           }
         ]
@@ -185,15 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e64dedf507037c15",
+  "active": "de0ee4ceab99441a",
   "lastOpenFiles": [
-    "000 - Inbox/Setup Git for obsidian on Android.md",
+    "300 - Zettelkasten/The infer keyword is helpful extracting sub-types out of other types.md",
+    "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
+    "300 - Zettelkasten/Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",
-    "conflict-files-obsidian-git.md",
-    "Typescript conditionals distributes on unions by default.md",
-    "Never the type that excludes certain conditional blocks.md",
-    "Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
+    "300 - Zettelkasten/Typescript conditionals distributes on unions by default.md",
+    "300 - Zettelkasten/Never the type that excludes certain conditional blocks.md",
     "000 - Inbox/Tanstack Router.md",
+    "000 - Inbox/Setup Git for obsidian on Android.md",
+    "conflict-files-obsidian-git.md",
     "000 - Inbox/Performance Record DB.md",
     "000 - Inbox/Untitled.md",
     "300 - Zettelkasten/Recursion and infer inside of conditional types.md",
@@ -211,10 +213,8 @@
     "900 - System/910 - Templates/T - Project.md",
     "900 - System/910 - Templates/T - Daily Notes.md",
     "000 - Inbox/Template Literal Types.md",
-    "000 - Inbox/Neverthrow but improved.md",
     "000 - Inbox/Untitled 1.base",
     "000 - Inbox/Untitled.base",
-    "000 - Inbox/things_i_did.md",
     "900 - System/vault-sync.sh",
     "900 - System/sync-termux.sh~",
     "900 - System/sync-termux.sh",
