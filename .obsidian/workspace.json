@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
+                "file": "000 - Inbox/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursive types in TypeScript breaks problems into sub-problems"
+              "title": "Untitled"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de0ee4ceab99441a",
+  "active": "b80a4ce4d6117191",
   "lastOpenFiles": [
-    "300 - Zettelkasten/The infer keyword is helpful extracting sub-types out of other types.md",
     "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
+    "300 - Zettelkasten/The infer keyword is helpful extracting sub-types out of other types.md",
     "300 - Zettelkasten/Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",
     "300 - Zettelkasten/Typescript conditionals distributes on unions by default.md",
