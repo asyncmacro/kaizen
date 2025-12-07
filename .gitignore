@@ -1,0 +1,7 @@
+# Ignore worksspace layout
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore cache
+.DS_STORE

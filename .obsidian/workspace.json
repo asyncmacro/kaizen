@@ -181,11 +181,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e64dedf507037c15",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "000 - Inbox/Learning Typescript conditional types and infer.md",
     "Typescript conditionals distributes on unions by default.md",
     "Never the type that excludes certain conditional blocks.md",
     "Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
@@ -194,7 +197,6 @@
     "000 - Inbox/Untitled.md",
     "300 - Zettelkasten/Recursion and infer inside of conditional types.md",
     "000 - Inbox/Advanced TypeScript Learning Map.md",
-    "000 - Inbox/Learning Typescript conditional types and infer.md",
     "Narrowing is when TypeScript refines return type.md",
     "300 - Zettelkasten/Infer helps extracting types out of more complex types by matching.md",
     "300 - Zettelkasten/Recursion inside of conditional types.md",
@@ -213,7 +215,6 @@
     "000 - Inbox/Untitled.base",
     "000 - Inbox/things_i_did.md",
     "000 - Inbox/Projects-Ideas.md",
-    "000 - Inbox/Projects Ideas.md",
     "900 - System/vault-sync.sh",
     "900 - System/sync-termux.sh~",
     "900 - System/sync-termux.sh",
