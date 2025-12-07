@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "360f2ac579da6c0a",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "08ecbe188175e86f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b80a4ce4d6117191",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Inbox/Untitled.md",
+                "file": "000 - Inbox/Pelvic Floor Alt.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pelvic Floor Alt"
             }
           }
         ]
@@ -164,6 +164,16 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "6b16964027dd0998",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -182,12 +192,30 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b80a4ce4d6117191",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "000 - Inbox/Untitled.md",
+    "100 - Map Of Contents/🏡 Dashboard.md",
+    "100 - Map Of Contents/🏡 Dashboard.md~",
+    "100 - Map Of Contents/4913",
+    "000 - Inbox/New Task Template.md",
+    "GTD Dashboard.md",
+    "900 - System/930 - Snippets/dashboard-layout.css",
+    "900 - System/930 - Snippets/dashboard-layout.css~",
+    "900 - System/930 - Snippets/4913",
+    "900 - System/930 - Snippets/dashboard-layout.css.md",
+    "900 - System/930 - Snippets",
+    "300 - Zettelkasten/_footer_ HTML element is for content at bottom of page.md",
+    "300 - Zettelkasten/_article_ semantic HTML element is for content that can be understood on its own.md",
     "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
+    "000 - Inbox/Pelvic Floor Alt.md",
     "300 - Zettelkasten/The infer keyword is helpful extracting sub-types out of other types.md",
     "300 - Zettelkasten/Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",
@@ -197,7 +225,6 @@
     "000 - Inbox/Setup Git for obsidian on Android.md",
     "conflict-files-obsidian-git.md",
     "000 - Inbox/Performance Record DB.md",
-    "000 - Inbox/Untitled.md",
     "300 - Zettelkasten/Recursion and infer inside of conditional types.md",
     "000 - Inbox/Advanced TypeScript Learning Map.md",
     "Narrowing is when TypeScript refines return type.md",
@@ -205,20 +232,9 @@
     "300 - Zettelkasten/Recursion inside of conditional types.md",
     "300 - Zettelkasten/Never the type that excludes certain conditional blocks.md",
     "300 - Zettelkasten/Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
-    "300 - Zettelkasten/Escaping union distribution in conditional types.md",
-    "300 - Zettelkasten/Typescript conditionals distributes on unions by default.md",
-    "900 - System/910 - Templates/T - Zettelkasten.md",
-    "900 - System/910 - Templates/T - Resource.md",
-    "900 - System/910 - Templates/T - Blog Draft.md",
-    "900 - System/910 - Templates/T - Project.md",
-    "900 - System/910 - Templates/T - Daily Notes.md",
-    "000 - Inbox/Template Literal Types.md",
     "000 - Inbox/Untitled 1.base",
     "000 - Inbox/Untitled.base",
     "900 - System/vault-sync.sh",
-    "900 - System/sync-termux.sh~",
-    "900 - System/sync-termux.sh",
-    "900 - System/sync.sh~",
-    "900 - System/sync.sh"
+    "900 - System/sync-termux.sh~"
   ]
 }

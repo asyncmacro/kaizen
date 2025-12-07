@@ -1,5 +1,9 @@
 ---
-tags: type/zettel, 
+tags:  
+  - type/zettel
+  - topic/programming
+  - topic/html
+  - concept/semantic-elements
 aliases: 
 created: 2025-04-20 21:21:07
 ---
