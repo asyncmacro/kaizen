@@ -23,7 +23,7 @@ I get up of the chair, give her my jacket and and take off her high heels. Her f
 
 Suddenly the rain stops, so I ask her "Wanna go to my place?" she responds "Hell Yeah!" she seems a bit drunk from the alcohol she drank at the restaurant. I take her high heels in my left hands while holding her hand with my right and we walk home.
 
-
+I open the door and we get home, she gets inside before me but once I close the door I grab her hand and turn her around, and look at her eyes. The way she looked at me was saying everything about love and passion, as if the world is all inside there. Unconsciously I end up kissing her, those soft lips and it taste like strawberry, even her smell is like strawberry. she puts her hands behind on my back and pull me closed to her...
 
 ## References
 
