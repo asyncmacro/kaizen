@@ -10,13 +10,13 @@
     "enableDependencies": false,
     "plugins": {
       "table-editor-obsidian": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "better-word-count": {
         "startupType": "short"
       },
       "buttons": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "calendar": {
         "startupType": "instant"
@@ -28,7 +28,7 @@
         "startupType": "instant"
       },
       "obsidian-emoji-toolbar": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-excalidraw-plugin": {
         "startupType": "instant"
@@ -55,7 +55,7 @@
         "startupType": "instant"
       },
       "shiki-highlighter": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
@@ -68,6 +68,12 @@
       },
       "templater-obsidian": {
         "startupType": "short"
+      },
+      "obsidian-latex": {
+        "startupType": "long"
+      },
+      "obsidian-tikzjax": {
+        "startupType": "long"
       }
     }
   }

@@ -8,7 +8,7 @@ UID: <% tp.file.creation_date("YYYYMMDDhhmm") %>
 date-created: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 
-# 💡 <% tp.file.title %>
+# <% tp.file.title %>
 
 ## 1. The Idea
 (Write the single, autonomous idea here in your own words. Be clear and concise. If the note is long, use bolding or simple lists to make it scannable.)

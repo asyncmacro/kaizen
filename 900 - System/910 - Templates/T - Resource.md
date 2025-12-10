@@ -1,14 +1,13 @@
 ---
 source-type: Book # Options: Book, Article, Video, Course, Podcast, Lecture
-author: [Author Name]
-year: YYYY
-tags: [topic/{{Type_Domain}}] # Tag the domain (e.g., #topic/programming)
+source: [url]
+tags: 
 ---
 
-# 📖 {{title}} Summary (Source Name)
+# 📖 <% tp.file.title %> Summary (Source Name)
 
 ## Metadata
-* **Status:** Read/Watched/Listened on {{date:YYYY-MM-DD}}
+* **Status:** Read on <% tp.date.now("YYYY-MM-DD") %>
 * **Link/ISBN:** [Link to the source or its ISBN]
 
 ## 1. Summary (My Words)

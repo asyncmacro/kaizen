@@ -1,20 +1,9 @@
 [
   "obsidian-icon-folder",
-  "shiki-highlighter",
   "obsidian-git",
   "tag-wrangler",
-  "dataview",
-  "obsidian-emoji-toolbar",
-  "homepage",
-  "table-editor-obsidian",
-  "buttons",
-  "calendar",
-  "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
+  "lazy-plugins",
   "obsidian-tasks-plugin",
-  "obsidian-style-settings",
-  "quickadd",
-  "custom-classes",
-  "obsidian-stylist",
-  "lazy-plugins"
+  "calendar",
+  "obsidian-tikzjax"
 ]
