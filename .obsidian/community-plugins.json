@@ -5,5 +5,7 @@
   "lazy-plugins",
   "obsidian-tasks-plugin",
   "calendar",
-  "obsidian-tikzjax"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-kanban"
 ]

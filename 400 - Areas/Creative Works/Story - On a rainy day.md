@@ -25,8 +25,19 @@ Suddenly the rain stops, so I ask her "Wanna go to my place?" she responds "Hell
 
 I open the door and we get home, she gets inside before me but once I close the door I grab her hand and turn her around, and look at her eyes. The way she looked at me was saying everything about love and passion, as if the world is all inside there. Unconsciously I end up kissing her, those soft lips and it taste like strawberry, even her smell is like strawberry. she puts her hands behind on my back and pull me closed to her...
 
-## References
+we keep on kissing to what seems to be several minutes non-stop with each kiss seems like a time-travel, for us it looks like few seconds but to the world it passes like a century. we then stop kissing, each of us looks like a mess with heat coming out of our faces. She looks so cute with that face and with heavy breath.
 
+She holds my hand and take me to the bed room, as we reach the bed I take her hand off, turn her to face me and start kissing while we take each other's clothes off until we're both naked. I lightly push her into the bed and get on top of her.
+
+I start kissing her face while playing with her hair, then i get down to her neck and kiss while also sucking the skin to make hickeys. The sound of hear breath, the light moans she gives makes me just want her more and more. Then I go playing with her tits, it looks like a goddess' breast with the nipples hard declaring her being ready for sex. After some playing with her breasts I get slowly to her stomach then her pussy...
+
+It smells like a strawberry and looks so delicious to taste, I run my finger on it and she let's a slight moan that voice makes my already hard dick want to explode but I control myself and keep running my finger through the clit and enjoying the moans.
+
+After some playing I spread her legs and reach her pussy with my tongue, I start licking and it tastes so good
+
+
+
+## References
 
 
 ## Active Projects in this Area
