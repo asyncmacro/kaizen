@@ -8,16 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb6383ae6f888b15",
+            "id": "f9010c9640e57805",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Stories.base",
-                "viewName": "Table"
+                "file": "2025-12-11 1127 Regret is the biggest pain.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Stories"
+              "icon": "lucide-file",
+              "title": "2025-12-11 1127 Regret is the biggest pain"
             }
           }
         ]
@@ -196,15 +197,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bb6383ae6f888b15",
+  "active": "f9010c9640e57805",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Bases/Stories.base",
-    "Story - On a rainy day.md",
+    "2025-12-11 1051 useRef the value reference without rerender.md",
+    "2025-12-11 1127 Regret is the biggest pain.md",
     "2025-12-11 0659 React evergreen.md",
+    "2025-12-11 1049 useRef as a state holder can boost performance.md",
+    "Untitled.md",
+    "000 - Inbox/David Talk.md",
+    "Bases/Stories.base",
+    "000 - Inbox/Performance Record DB.md",
+    "000 - Inbox/Untitled.md",
+    "Excalidraw/Drawing 2025-12-11 22.46.13.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Untitled 1.md",
+    "Story - On a rainy day.md",
     "Pure function is a function with no side effects and returns save value given the same input.md",
     "Bases/Stories.md",
     "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
@@ -221,14 +236,6 @@
     "Time Complexity Measures Algorithm Performance Relative to Input Size.md",
     "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
     "The Benefits of Tree Shaking.md",
-    "Tree Shaking removes unused named imports and pure functions.md",
-    "2025-12-11 0653 Tree Shaking.md",
-    "Tree Shaking Works by analyzing and removing safe to remove code.md",
-    "Untitled.md",
-    "Use app.onError to handle thrown exceptions inside route handlers.md",
-    "Space complexity measures the space taken by algorithm's input and during execution.md",
-    "Each DBMS handles auto incrementing differently.md",
-    "300 - Zettelkasten/Prepositional Phrase starts with preposition and ends with object of preposition with optional modifiers in the middle.md",
     "Bases/Shows.base",
     "Bases/Books.base",
     "Daily",
@@ -236,7 +243,6 @@
     "Attachments/Book The 48 Laws Of Power.jpg",
     "Attachments",
     "Clippings",
-    "Daily",
-    "Movies.base"
+    "Daily"
   ]
 }
