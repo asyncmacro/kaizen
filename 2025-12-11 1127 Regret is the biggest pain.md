@@ -16,4 +16,6 @@ I will no longer be your universe anymore, I feel a mixture of sharp pain and ha
 
 My brain struggles to remember details about my life but capable to remember our memories, every valentine I remember the little girl that wanted to be your valentine and smile, every time I look at the beach and remember the day we planned for our wedding to be on the beach. I remember the time you told me you'd be at the beach if you leave the house...Now where can I find you? is there somewhere I can find you at to just hold you one last time and tell you what I couldn't say for years. 
 
-It's too late now to change the flow of time, I wish I knew sooner...
+It's too late now to change the flow of time, I wish I knew sooner...you're now the only place I could see you at is the place where the only scent of you is left, memories is where I could find you. The place that makes me struggle everyday is my only place I can remember you.
+
+Imagination is where I can hold you, kiss you and tell you what I should have said, the only safe place left for me to live in.
