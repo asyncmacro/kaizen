@@ -83,6 +83,18 @@
       },
       "obsidian-minimal-settings": {
         "startupType": "long"
+      },
+      "advanced-canvas": {
+        "startupType": "long"
+      },
+      "obsidian-book-search-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "long"
+      },
+      "pdf-plus": {
+        "startupType": "long"
       }
     }
   }
