@@ -1,0 +1,19 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - categories == ["[[Books]]"]
+        - '!file.name.contains("Template")'
+    order:
+      - title
+    image: note.cover
+    imageFit: contain
+    cardSize: 140
+    imageAspectRatio: 1.1
+  - type: table
+    name: Table
+    filters:
+      and:
+        - categories == ["[[Books]]"]
+        - '!file.name.contains("Template")'

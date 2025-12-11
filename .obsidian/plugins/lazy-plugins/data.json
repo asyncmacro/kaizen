@@ -74,6 +74,15 @@
       },
       "obsidian-tikzjax": {
         "startupType": "long"
+      },
+      "obsidian-douban-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-hider": {
+        "startupType": "long"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "long"
       }
     }
   }

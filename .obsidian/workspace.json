@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8bee1186e0d4fd8a",
+        "id": "a6daabbd948e86c4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd671ef1940100ea",
+            "id": "bb6383ae6f888b15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "400 - Areas/Creative Works/Story - On a rainy day.md",
-                "mode": "source",
-                "source": true
+                "file": "Bases/Stories.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Story - On a rainy day"
+              "icon": "lucide-table",
+              "title": "Stories"
             }
           }
         ]
@@ -193,46 +192,51 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cd671ef1940100ea",
+  "active": "bb6383ae6f888b15",
   "lastOpenFiles": [
-    "200 - Source/Book - Prealgebra 2e.md",
-    "400 - Areas/Creative Works/Story - On a rainy day.md",
-    "400 - Areas/Creative Works",
-    "200 - Source/Book - Prealgebra 2e.md~",
-    "100 - Map Of Contents/🏡 Dashboard.md",
-    "Natural Numbers.md",
-    "Untitled Kanban.md",
-    "000 - Inbox/Math.md",
-    "200 - Source/Real Numbers - algebra essentials.md",
-    "900 - System/910 - Templates/T - Zettelkasten.md",
-    "900 - System/910 - Templates/T - Resource.md",
-    "000 - Inbox/Learning Typescript conditional types and infer.md",
-    "preamble.sty~",
-    "4913",
-    "preamble.sty",
-    "premable.sty~",
-    "premable.sty",
-    "100 - Map Of Contents/🏡 Dashboard.md~",
-    "000 - Inbox/Untitled.md",
-    "Narrowing is TypeScript way of selectively choose types instead of wider ones.md",
-    "000 - Inbox/Pelvic Floor Alt.md",
-    "100 - Map Of Contents/4913",
-    "000 - Inbox/New Task Template.md",
-    "GTD Dashboard.md",
-    "900 - System/930 - Snippets/dashboard-layout.css",
-    "900 - System/930 - Snippets/dashboard-layout.css.md",
-    "300 - Zettelkasten/_footer_ HTML element is for content at bottom of page.md",
-    "300 - Zettelkasten/_article_ semantic HTML element is for content that can be understood on its own.md",
-    "300 - Zettelkasten/Recursive types in TypeScript breaks problems into sub-problems.md",
-    "300 - Zettelkasten/The infer keyword is helpful extracting sub-types out of other types.md",
-    "300 - Zettelkasten/Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
-    "300 - Zettelkasten/Typescript conditionals distributes on unions by default.md",
-    "300 - Zettelkasten/Never the type that excludes certain conditional blocks.md",
-    "000 - Inbox/Tanstack Router.md",
-    "000 - Inbox/Setup Git for obsidian on Android.md",
-    "conflict-files-obsidian-git.md"
+    "Untitled 1.md",
+    "Bases/Stories.base",
+    "Story - On a rainy day.md",
+    "2025-12-11 0659 React evergreen.md",
+    "Pure function is a function with no side effects and returns save value given the same input.md",
+    "Bases/Stories.md",
+    "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
+    "Typescript conditionals distributes on unions by default.md",
+    "tsup Compiles TypeScript Projects with Zero Configuration.md",
+    "tsup Can be configured to customize the output by exporting defineConfig from the configuration file.md",
+    "The infer keyword is helpful extracting sub-types out of other types.md",
+    "Recursive types in TypeScript breaks problems into sub-problems.md",
+    "Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md",
+    "Never the type that excludes certain conditional blocks.md",
+    "Bases/Daily Notes.base",
+    "Bases/Evergreen Notes.base",
+    "useState should not be used when the state is used internally only with no UI update.md",
+    "Time Complexity Measures Algorithm Performance Relative to Input Size.md",
+    "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
+    "The Benefits of Tree Shaking.md",
+    "Tree Shaking removes unused named imports and pure functions.md",
+    "2025-12-11 0653 Tree Shaking.md",
+    "Tree Shaking Works by analyzing and removing safe to remove code.md",
+    "Untitled.md",
+    "Use app.onError to handle thrown exceptions inside route handlers.md",
+    "Space complexity measures the space taken by algorithm's input and during execution.md",
+    "Each DBMS handles auto incrementing differently.md",
+    "300 - Zettelkasten/Prepositional Phrase starts with preposition and ends with object of preposition with optional modifiers in the middle.md",
+    "Bases/Shows.base",
+    "Bases/Books.base",
+    "Daily",
+    "Attachments/Book The Concise 48 Laws Of Power.jpg",
+    "Attachments/Book The 48 Laws Of Power.jpg",
+    "Attachments",
+    "Clippings",
+    "Daily",
+    "Movies.base"
   ]
 }

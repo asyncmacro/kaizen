@@ -24,15 +24,3 @@ function evenOrOdd(n: number) {
   return "odd"
 }
 ```
-
-
-## 2. Connections & Synthesis
-(Find at least two links to other Zettels. Use this section to explain *why* they are related, making the connection explicit.)
-
-* [[Existing Zettel 1 - The Main Link]] (This idea relates to X by demonstrating the need for isolation.)
-* [[Existing Zettel 2 - The Opposite/Analogy Link]] (This parallels the concept of Y in the domain of Z.)
-* [[MOC - Relevant Map of Content]] (If this idea fits into a major MOC, link it here.)
-
-## 3. Source & Reference
-* **Original Source:** [[10_Sources/Source Title Here]]
-* **Relevant Page/Section:** Page 42, Chapter 3.

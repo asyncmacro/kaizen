@@ -2,10 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "dashboard-layout",
-    "MCL Multi Column",
-    "MCL Wide View",
-    "MCL Gallery Cards"
+    "bases-styles"
   ],
   "baseFontSize": 20
 }
