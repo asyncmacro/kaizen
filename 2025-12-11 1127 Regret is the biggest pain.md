@@ -5,6 +5,8 @@ tags:
   - journal
   - writings
   - love
+categories:
+  - "[[Writings]]"
 ---
 They say the breakup pain is the most painful feeling to human but to me it's regret. It is the feeling of losing something that was once dear to you because of the ego, not appreciating it the love that was given to you enough. Every day I spend some of my time regretting every word I said in the heat of the moment, my tongue twitches as if it was put on acid, my hands shake when I remember I used them to seal my destiny.
 
