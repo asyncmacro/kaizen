@@ -6,4 +6,5 @@ tags:
   - stretches
   - healths
 ---
-My daily routine 
+My daily routine of stretches is like the following: 
+* 
