@@ -8,4 +8,4 @@ tags:
 ---
 My daily routine of stretches is like the following: 
 * 10 minutes of Reclined Bound Angle, this stretch opens the pelvic floor and I do minimum of 10 minutes and sometimes more
-* Janu 
+* 2 minutes of Janu Sirsasana 
