@@ -11,13 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Evergreen Notes.base",
-                "viewName": "Table"
+                "file": "2025-12-12 1102 20 Letters for her.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Evergreen Notes"
+              "icon": "lucide-file",
+              "title": "2025-12-12 1102 20 Letters for her"
             },
             "group": "7c2d7bf2368361cd"
           }
@@ -33,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bases/Evergreen Notes.base",
+                "file": "2025-12-12 1102 20 Letters for her.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bases/Evergreen Notes.base",
+            "file": "2025-12-12 1102 20 Letters for her.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,6 +232,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Bases/Evergreen Notes.base",
     "2025-12-11 1127 Regret is the most painful feeling.md",
     "Bases/Stories and Writings.base",
     "References/I Have a Crush at Work.md",
@@ -240,7 +242,7 @@
     "The Benefits of Tree Shaking.md",
     "Pure function is a function with no side effects and returns save value given the same input.md",
     "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
-    "2025-12-12 1102 20 Letters to her.md",
+    "2025-12-12 1102 20 Letters for her.md",
     "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
     "000 - Inbox/Pelvic Floor Alt.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
