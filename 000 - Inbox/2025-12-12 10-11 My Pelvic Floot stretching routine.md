@@ -15,4 +15,4 @@ My daily routine of stretches is like the following:
 **Rules to follow;**
 * Try to do it twice a day (morning/night)
 * If in busy day, do it once. Extra busy? Just reclined bound angle before sleep.
-* Try not to 
+* Try not to do kegels during the day or in bathroom.
