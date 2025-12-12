@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md",
+                "file": "References/Book Nudge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book Building AI Agents with LLMs RAG and Knowledge Graphs"
+              "title": "Book Nudge"
             },
             "group": "7c2d7bf2368361cd"
           }
@@ -232,8 +232,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "References/Book Agentic Artificial Intelligence.md",
     "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md",
+    "References/Book Nudge.md",
+    "Attachments/Book Nudge.jpg",
+    "References/Book Agentic Artificial Intelligence.md",
     "Attachments/Book Building AI Agents with LLMs RAG and Knowledge Graphs.jpg",
     "The eyes that don't lie.md",
     "Attachments/Book Agentic Artificial Intelligence.jpg",
