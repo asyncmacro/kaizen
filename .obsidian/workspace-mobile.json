@@ -11,14 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "References/I Have a Crush at Work.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Stories.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "I Have a Crush at Work"
+              "icon": "lucide-table",
+              "title": "Stories"
             }
           }
         ]
@@ -185,8 +184,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "eed593adcd08333c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "References/I Have a Crush at Work.md",
     "_header_ HTML element includes navigation elements, heading, logos and elements meant at the top of page.md",
     "Tree Shaking Works by analyzing and removing safe to remove code.md",
     "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
