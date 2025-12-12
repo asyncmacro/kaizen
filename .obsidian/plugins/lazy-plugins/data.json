@@ -85,7 +85,7 @@
         "startupType": "instant"
       },
       "advanced-canvas": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "obsidian-book-search-plugin": {
         "startupType": "long"
