@@ -6,5 +6,7 @@
   "calendar",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "obsidian-hider"
 ]
