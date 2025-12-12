@@ -14,3 +14,5 @@ I'm a soldier but a sensitive flower when I look at your eyes. Lost in the thoug
 If I could experience it one more time, I'd fight for it, for you. 
 
 What's so special they ask. Her eyes makes your heart melts in a eay no one ever did.
+
+Can these dreams be revi
