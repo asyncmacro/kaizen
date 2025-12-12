@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Concepts",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 2
   },
   "right": {
     "id": "30c8ac80aa80d922",
@@ -185,7 +185,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eed593adcd08333c",
   "lastOpenFiles": [
     "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
     "The Benefits of Tree Shaking.md",
