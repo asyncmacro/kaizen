@@ -8,7 +8,7 @@ tags:
 categories:
   - "[[Writings]]"
 ---
-They say the breakup pain is the most painful feeling to human but to me it's regret. It is the feeling of losing something that was once dear to you because of the ego, not appreciating it the love that was given to you enough. Every day I spend some of my time regretting every word I said in the heat of the moment, my tongue twitches as if it was put on acid, my hands shake when I remember I used them to seal my destiny.
+They say the breakup pain is the most painful feeling to a human being but to me it's regret. It is the feeling of losing something that was once dear to you because of the ego, not appreciating it the love that was given to you enough. Every day I spend some of my time regretting every word I said in the heat of the moment, my tongue twitches as if it was put on acid, my hands shake when I remember I used them to seal my destiny.
 
 My heart can only think about one thing, what was once mine is for someone else now. The lips that I once dreamed of kissing are now for him to kiss, The eyes that I spent nights and nights staring at will be available to him to gaze at when he say the word I love you.
 
