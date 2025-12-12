@@ -3,4 +3,4 @@ views:
     name: Table
     filters:
       and:
-        - categories == ["Stories"]
+        - categories.containsAny(link("Writings"), link("Stories"))

@@ -13,12 +13,57 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Stories and Writings.base",
+                "file": "Bases/Evergreen Notes.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Stories and Writings"
-            }
+              "title": "Evergreen Notes"
+            },
+            "group": "7c2d7bf2368361cd"
+          }
+        ]
+      },
+      {
+        "id": "d48cb9886941b115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4dd1818ee1efb49",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Bases/Evergreen Notes.base",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "7c2d7bf2368361cd"
           }
         ]
       }
@@ -48,7 +93,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#0🌲",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -111,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
+            "file": "Bases/Evergreen Notes.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,6 +231,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2025-12-11 1127 Regret is the most painful feeling.md",
+    "Bases/Stories and Writings.base",
     "References/I Have a Crush at Work.md",
     "_header_ HTML element includes navigation elements, heading, logos and elements meant at the top of page.md",
     "Tree Shaking Works by analyzing and removing safe to remove code.md",
@@ -193,10 +240,8 @@
     "The Benefits of Tree Shaking.md",
     "Pure function is a function with no side effects and returns save value given the same input.md",
     "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
-    "2025-12-11 1127 Regret is the most painful feeling.md",
     "2025-12-12 1102 20 Letters to her.md",
     "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
-    "Bases/Stories and Writings.base",
     "000 - Inbox/Pelvic Floor Alt.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
     "000 - Inbox/Tanstack Router.md",
