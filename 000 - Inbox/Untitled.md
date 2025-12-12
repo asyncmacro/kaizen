@@ -12,4 +12,7 @@ My daily routine of stretches is like the following:
 * 2 minutes of couch stretch for each side, this targets the muscles at the front of my thighs.
 * A single 2 minutes of standing hamstrings stretching for improving mobility and stretch better in case I did not stretch will in Janu Sirsasana.
 
-I try to do this routine twice a day but I'm case I miss days I do my best to do it at least once a day.
+**Rules to follow;**
+* Try to do it twice a day (morning/night)
+* If in busy day, do it once. Extra busy? Just reclined bound angle before sleep.
+* Try
