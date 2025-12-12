@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-12 1102 20 Letters for her.md",
+                "file": "The eyes that don't lie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12 1102 20 Letters for her"
+              "title": "The eyes that don't lie"
             },
             "group": "7c2d7bf2368361cd"
           }
@@ -221,13 +221,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c0e0e64e4e424f4f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
     "2025-12-12 1102 20 Letters for her.md",
+    "Untitled.md",
     "The eyes that don't lie.md",
     "Bases/Evergreen Notes.base",
     "2025-12-11 1127 Regret is the most painful feeling.md",
