@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_header_ HTML element includes navigation elements, heading, logos and elements meant at the top of page.md",
+                "file": "References/I Have a Crush at Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_header_ HTML element includes navigation elements, heading, logos and elements meant at the top of page"
+              "title": "I Have a Crush at Work"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#field",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 2
   },
   "right": {
     "id": "30c8ac80aa80d922",
@@ -185,8 +185,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eed593adcd08333c",
   "lastOpenFiles": [
+    "_header_ HTML element includes navigation elements, heading, logos and elements meant at the top of page.md",
     "Tree Shaking Works by analyzing and removing safe to remove code.md",
     "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
     "The Benefits of Tree Shaking.md",
