@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-12 1102 20 Letters for her.md",
+                "file": "The eyes that don't lie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12 1102 20 Letters for her"
+              "title": "The eyes that don't lie"
             },
             "group": "7c2d7bf2368361cd"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2025-12-12 1102 20 Letters for her.md",
+                "file": "The eyes that don't lie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2025-12-12 1102 20 Letters for her.md",
+            "file": "The eyes that don't lie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,6 +232,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2025-12-12 1102 20 Letters for her.md",
+    "The eyes that don't lie.md",
     "Bases/Evergreen Notes.base",
     "2025-12-11 1127 Regret is the most painful feeling.md",
     "Bases/Stories and Writings.base",
@@ -242,7 +244,6 @@
     "The Benefits of Tree Shaking.md",
     "Pure function is a function with no side effects and returns save value given the same input.md",
     "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
-    "2025-12-12 1102 20 Letters for her.md",
     "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
     "000 - Inbox/Pelvic Floor Alt.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
