@@ -4,7 +4,7 @@ tags:
   - note
   - journal
   - writings
-  - love
+  - loves
 categories:
   - "[[Writings]]"
 ---

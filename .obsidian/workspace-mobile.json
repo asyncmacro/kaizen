@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-12 1102 20 Letters to her.md",
+                "file": "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12 1102 20 Letters to her"
+              "title": "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#0🌲",
+            "query": "Concepts",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -187,6 +187,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "The Benefits of Tree Shaking.md",
+    "Pure function is a function with no side effects and returns save value given the same input.md",
+    "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
     "2025-12-11 1127 Regret is the most painful feeling.md",
     "2025-12-12 1102 20 Letters to her.md",
     "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",

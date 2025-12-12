@@ -2,9 +2,9 @@
 tags:
   - daily
   - journal
-  - Concepts
   - programmings
   - languages
+  - concepts
 aliases:
 created: 2025-04-12 00:22:13
 ---
