@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-11 1127 Regret is the most painful feeling.md",
+                "file": "2025-12-12 1102 20 Letters to her.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-11 1127 Regret is the most painful feeling"
+              "title": "2025-12-12 1102 20 Letters to her"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#0🌲",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "30c8ac80aa80d922",
@@ -185,11 +185,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c0e0e64e4e424f4f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2025-12-11 1127 Regret is the most painful feeling.md",
     "2025-12-12 1102 20 Letters to her.md",
     "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
-    "2025-12-11 1127 Regret is the most painful feeling.md",
     "Bases/Stories.base",
     "000 - Inbox/Pelvic Floor Alt.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
