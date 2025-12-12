@@ -11,4 +11,4 @@ In my life I've seen a lot of eyes out of different places yet yours stuck with 
 
 I'm a soldier but a sensitive flower when I look at your eyes. Lost in the thought of the divine eyes that god gave you.
 
-If I could hold 
+If I could experie
