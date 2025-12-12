@@ -1,8 +1,9 @@
 {
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "system",
   "enabledCssSnippets": [
     "bases-styles"
   ],
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Inter"
 }
