@@ -2,8 +2,8 @@
   "dualConfigs": false,
   "showConsoleLog": false,
   "desktop": {
-    "shortDelaySeconds": 5,
-    "longDelaySeconds": 15,
+    "shortDelaySeconds": 10,
+    "longDelaySeconds": 30,
     "delayBetweenPlugins": 40,
     "defaultStartupType": "long",
     "showDescriptions": true,
@@ -55,7 +55,7 @@
         "startupType": "instant"
       },
       "shiki-highlighter": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
