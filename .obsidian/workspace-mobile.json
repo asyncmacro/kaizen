@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Stories.base",
+                "file": "Bases/Stories and Writings.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Stories"
+              "title": "Stories and Writings"
             }
           }
         ]
@@ -196,7 +196,7 @@
     "2025-12-11 1127 Regret is the most painful feeling.md",
     "2025-12-12 1102 20 Letters to her.md",
     "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
-    "Bases/Stories.base",
+    "Bases/Stories and Writings.base",
     "000 - Inbox/Pelvic Floor Alt.md",
     "100 - Map Of Contents/🏡 Dashboard.md",
     "000 - Inbox/Tanstack Router.md",
