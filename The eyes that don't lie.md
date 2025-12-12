@@ -11,4 +11,6 @@ In my life I've seen a lot of eyes out of different places yet yours stuck with 
 
 I'm a soldier but a sensitive flower when I look at your eyes. Lost in the thought of the divine eyes that god gave you.
 
-If I could experie
+If I could experience it one more time, I'd fight for it, for you. 
+
+What's sp sp
