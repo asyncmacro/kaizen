@@ -7,4 +7,4 @@ tags:
   - healths
 ---
 My daily routine of stretches is like the following: 
-* 
+* Reclined bound angle 
