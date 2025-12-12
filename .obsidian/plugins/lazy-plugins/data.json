@@ -79,10 +79,10 @@
         "startupType": "long"
       },
       "obsidian-hider": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "obsidian-minimal-settings": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "advanced-canvas": {
         "startupType": "long"
