@@ -7,4 +7,7 @@ tags:
   - loves
   - romances
 ---
-In my life I've seen a lot of eyes out of different places yet yours stuck with me in my mind.
+In my life I've seen a lot of eyes out of different places yet yours stuck with me in my mind. The small fire that pierce my heart when I hold eye contact with you warms my heart and makes me give up.
+
+I'm a soldier but a sensitive flower when I look at your eyes. Lost in the thought of the divine eyes that god gave you.
+
