@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Book Nudge.md",
+                "file": "References/Book Thinking Fast and Slow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book Nudge"
+              "title": "Book Thinking Fast and Slow"
             },
             "group": "7c2d7bf2368361cd"
           }
@@ -232,8 +232,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md",
     "References/Book Nudge.md",
+    "References/Book Thinking Fast and Slow.md",
+    "Attachments/Book Thinking Fast and Slow.jpg",
+    "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md",
     "Attachments/Book Nudge.jpg",
     "References/Book Agentic Artificial Intelligence.md",
     "Attachments/Book Building AI Agents with LLMs RAG and Knowledge Graphs.jpg",
