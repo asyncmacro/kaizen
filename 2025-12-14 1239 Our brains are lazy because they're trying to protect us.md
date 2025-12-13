@@ -23,4 +23,4 @@ When you say "**I am not a math person**" your brain actually believes it and tr
 
 ### 1. The two minutes trick 
 
-Instead of saying "**I must study for 8 hours**" start small like open the book and lay out your papers
+Instead of saying "**I must study for 8 hours**" start small like open the book or read one paragrapb
