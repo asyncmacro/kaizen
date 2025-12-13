@@ -2,10 +2,9 @@
   "lazy-plugins",
   "obsidian-tasks-plugin",
   "calendar",
-  "obsidian-excalidraw-plugin",
-  "dataview",
   "obsidian-kanban",
   "obsidian-minimal-settings",
-  "obsidian-hider"
+  "obsidian-hider",
+  "tag-wrangler",
+  "obsidian-git"
 ]
-
