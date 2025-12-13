@@ -1,6 +1,5 @@
 [
   "lazy-plugins",
-  "obsidian-tasks-plugin",
   "calendar",
   "obsidian-kanban",
   "obsidian-minimal-settings",
@@ -8,3 +7,4 @@
   "tag-wrangler",
   "obsidian-git"
 ]
+
