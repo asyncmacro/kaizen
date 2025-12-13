@@ -1,9 +1,10 @@
 ---
 tags:
-  - type/zettel
-  - topic/html
-  - field/web
-aliases: 
+  - journal
+  - note
+  - React
+  - HTML
+aliases:
 created: 2025-04-20 18:36:25
 ---
 # <header> HTML element includes navigation elements, heading, logos and elements meant at the top of page

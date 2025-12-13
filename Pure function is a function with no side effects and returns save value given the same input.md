@@ -4,7 +4,7 @@ tags:
   - journal
   - programmings
   - languages
-  - Concepts
+  - concepts
 aliases:
 created: 2025-04-12 00:02:55
 ---

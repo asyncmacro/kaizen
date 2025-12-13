@@ -1,9 +1,9 @@
 {
-  "dualConfigs": false,
+  "dualConfigs": true,
   "showConsoleLog": false,
   "desktop": {
-    "shortDelaySeconds": 5,
-    "longDelaySeconds": 15,
+    "shortDelaySeconds": 10,
+    "longDelaySeconds": 30,
     "delayBetweenPlugins": 40,
     "defaultStartupType": "long",
     "showDescriptions": true,
@@ -25,13 +25,13 @@
         "startupType": "instant"
       },
       "dataview": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "obsidian-emoji-toolbar": {
         "startupType": "disabled"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-git": {
         "startupType": "instant"
@@ -55,7 +55,7 @@
         "startupType": "instant"
       },
       "shiki-highlighter": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
@@ -79,9 +79,118 @@
         "startupType": "long"
       },
       "obsidian-hider": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "disabled"
+      },
+      "obsidian-book-search-plugin": {
+        "startupType": "short"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "long"
+      },
+      "pdf-plus": {
+        "startupType": "long"
+      }
+    }
+  },
+  "mobile": {
+    "shortDelaySeconds": 10,
+    "longDelaySeconds": 30,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "long",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "table-editor-obsidian": {
+        "startupType": "short"
+      },
+      "better-word-count": {
+        "startupType": "short"
+      },
+      "buttons": {
+        "startupType": "long"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "custom-classes": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "disabled"
+      },
+      "obsidian-emoji-toolbar": {
+        "startupType": "disabled"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-git": {
+        "startupType": "disabled"
+      },
+      "homepage": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "obsidian-kanban": {
+        "startupType": "long"
+      },
+      "obsidian-stylist": {
+        "startupType": "instant"
+      },
+      "periodic-notes": {
+        "startupType": "disabled"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "shiki-highlighter": {
+        "startupType": "short"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "tag-wrangler": {
+        "startupType": "short"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "disabled"
+      },
+      "templater-obsidian": {
+        "startupType": "disabled"
+      },
+      "obsidian-latex": {
+        "startupType": "long"
+      },
+      "obsidian-tikzjax": {
+        "startupType": "long"
+      },
+      "obsidian-douban-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-hider": {
+        "startupType": "instant"
+      },
+      "obsidian-minimal-settings": {
+        "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "disabled"
+      },
+      "obsidian-book-search-plugin": {
+        "startupType": "short"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "long"
+      },
+      "pdf-plus": {
         "startupType": "long"
       },
       "advanced-canvas": {

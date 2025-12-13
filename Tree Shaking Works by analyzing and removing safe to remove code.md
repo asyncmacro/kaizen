@@ -3,7 +3,7 @@ tags:
   - journal
   - daily
   - Softwares
-  - Concepts
+  - concepts
 aliases:
 created: 2025-04-11 22:13:56
 ---
