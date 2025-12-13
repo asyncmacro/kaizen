@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#stories",
+            "query": "tag:journal",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -151,6 +151,16 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "596e86641b6c4378",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 0
@@ -164,13 +174,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "eed593adcd08333c",
   "lastOpenFiles": [
     "References/Book Thinking Fast and Slow.md",
     "2025-12-13 0202.md",
