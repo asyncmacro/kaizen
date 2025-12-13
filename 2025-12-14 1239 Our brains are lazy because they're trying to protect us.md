@@ -23,4 +23,9 @@ When you say "**I am not a math person**" your brain actually believes it and tr
 
 ### 1. The two minutes trick 
 
-Instead of saying "**I must study for 8 hours**" start small like open the book or read one paragrapb
+Instead of saying "**I must study for 8 hours**" start small like open the book or read one paragraph, something you can do in 2 minutes or less. Doing that will ease the brain into doing more of the task think of it as warming up your brain for the task.
+
+### 2. Preparation 
+
+Instead of going to gym, just wear your gym clothes and the water bottle. This is similar to the 2 minutes trick as it gets you ready to do more.
+
