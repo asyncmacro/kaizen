@@ -19,52 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Book Thinking Fast and Slow"
-            },
-            "group": "7c2d7bf2368361cd"
-          }
-        ]
-      },
-      {
-        "id": "d48cb9886941b115",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4dd1818ee1efb49",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "The eyes that don't lie.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "7c2d7bf2368361cd"
+            }
           }
         ]
       }
@@ -219,7 +174,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "e7a7b303c61786dc",
