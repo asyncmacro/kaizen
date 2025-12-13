@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-12-14 1239 Our brains are lazy because they're trying to protect us.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-12-14 1239 Our brains are lazy because they're trying to protect us"
             }
           }
         ]
@@ -45,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:journal",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "30c8ac80aa80d922",
@@ -170,11 +174,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "eed593adcd08333c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2025-12-14 1239 Our brains are lazy because they're trying to protect us.md",
     "References/Book Thinking Fast and Slow.md",
     "2025-12-13 0202.md",
     "References/Book Nudge.md",
