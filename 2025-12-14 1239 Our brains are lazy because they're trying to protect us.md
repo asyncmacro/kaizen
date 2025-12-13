@@ -19,4 +19,4 @@ Because the goal or task seems big, our brain try to avoid it things like "**I n
 
 When you say "**I am not a math person**" your brain actually believes it and try to avoid even opening the book
 
-## 
+## Strategies
