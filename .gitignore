@@ -1,5 +1,5 @@
 # Ignore worksspace layout
-.obsidian/workspace
+.obsidian/workspace*
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
