@@ -1,10 +1,6 @@
 [
   "lazy-plugins",
   "calendar",
-  "obsidian-kanban",
   "obsidian-minimal-settings",
-  "obsidian-hider",
-  "tag-wrangler",
-  "obsidian-git"
+  "obsidian-hider"
 ]
-
