@@ -182,22 +182,10 @@
         "startupType": "instant"
       },
       "advanced-canvas": {
-        "startupType": "disabled"
-      },
-      "obsidian-book-search-plugin": {
-        "startupType": "short"
-      },
-      "obsidian-latex-suite": {
-        "startupType": "long"
-      },
-      "pdf-plus": {
-        "startupType": "long"
-      },
-      "advanced-canvas": {
         "startupType": "long"
       },
       "obsidian-book-search-plugin": {
-        "startupType": "long"
+        "startupType": "instant"
       },
       "obsidian-latex-suite": {
         "startupType": "long"

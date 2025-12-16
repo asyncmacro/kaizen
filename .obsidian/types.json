@@ -16,7 +16,7 @@
     "model": "text",
     "lotsqft": "number",
     "isbn13": "number",
-    "isbn": "number",
+    "isbn": "text",
     "ingredients": "multitext",
     "imdbId": "text",
     "system": "text",
@@ -71,6 +71,7 @@
     "TQ_show_tags": "checkbox",
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
-    "TQ_show_urgency": "checkbox"
+    "TQ_show_urgency": "checkbox",
+    "current_page": "number"
   }
 }

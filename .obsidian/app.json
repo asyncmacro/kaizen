@@ -27,5 +27,9 @@
     "editor:table-row-delete",
     "editor:table-col-copy",
     "editor:table-col-delete"
+  ],
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "Attachments/"
   ]
 }

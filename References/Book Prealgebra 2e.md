@@ -5,8 +5,8 @@ author:
   - "[[Lynn Marecek]]"
   - "[[Maryanne Anthony-Smith]]"
   - "[[Andrea Honeycutt Mathis]]"
-cover: "https://s3proxy.cdn-zlib.sk//covers299/collections/userbooks/7d70775be51074f919fbf7480b2ac1d93d4f37f0ad45f80a6bbf6e45ceffb06c.jpg"
-title: "Prealgebra 2e"
+cover: https://s3proxy.cdn-zlib.sk//covers299/collections/userbooks/7d70775be51074f919fbf7480b2ac1d93d4f37f0ad45f80a6bbf6e45ceffb06c.jpg
+title: Prealgebra 2e
 genre:
   - "[[Mathematics]]"
   - "[[Reference]]"
@@ -23,8 +23,9 @@ created: 2025-12-11
 scoreGr: 4.48
 language:
 tags:
-  - "books"
-  - "to-read"
+  - books
+  - to-read
+current_page: 0
 ---
 - "Whole numbers are $\{1, 2, 3, ...\}$ the ... is called ellipsis which means _and so on_. They're also called counting numbers"
 - "The discovery of $0$ was a big step in history of mathematics which lead to a new set of numbers called **whole number** that doesn't include numbers such as $\frac{1}{4}$ or $5.2$ "

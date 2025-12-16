@@ -1,3 +1,11 @@
+formulas:
+  progress: |-
+    html("<div style=\"display: flex; align-items: center; gap: 8px; max-width: 100%;\">" +
+      "<progress value=\"" + (current_page / pages * 100).toFixed(0) + "\" max=\"100\" style=\"flex-grow: 1; max-width: 100%;\"></progress>" + 
+      "<span style=\"font-size: 0.8em; white-space: nowrap;\">" + 
+        (current_page / pages * 100).toFixed(0) + "% (" + current_page + "/" + pages + ")" + 
+      "</span>" +
+    "</div>")
 views:
   - type: cards
     name: Cards
@@ -7,6 +15,7 @@ views:
         - '!file.name.contains("Template")'
     order:
       - title
+      - formula.progress
     image: note.cover
     imageFit: contain
     cardSize: 140
@@ -17,3 +26,10 @@ views:
       and:
         - categories == ["[[Books]]"]
         - '!file.name.contains("Template")'
+    order:
+      - file.name
+      - author
+      - created
+      - genre
+      - rating
+      - formula.progress

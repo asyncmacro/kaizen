@@ -1,24 +1,23 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "9d2feabb6a1e08a0",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e6cc89446633b090",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "01d2e174085626aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "References/Book The Library of Babel.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Books.base",
+                "viewName": "Cards"
               },
-              "icon": "lucide-file",
-              "title": "Book The Library of Babel"
+              "icon": "lucide-layout-grid",
+              "title": "Books"
             }
           }
         ]
@@ -27,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a1bd6207bb4ae03e",
+    "id": "93cf56e0c6eeef24",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c0e0e64e4e424f4f",
+        "id": "db8082021cd08e7d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +43,7 @@
         }
       },
       {
-        "id": "eed593adcd08333c",
+        "id": "3d677376bd0bb65b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,22 +60,22 @@
         }
       },
       {
-        "id": "2ef40d20e22c9724",
+        "id": "c2bee33fa0269fe6",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true,
-            "showSearch": true,
-            "searchQuery": "Stories"
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "7500061b477ea51e",
+        "id": "11eb5fc166a94f4f",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +89,7 @@
         }
       },
       {
-        "id": "b7ffa4f61f2aa0d9",
+        "id": "db5db87788757aff",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,16 +102,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "30c8ac80aa80d922",
+    "id": "5634ff20b37e5457",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bfa2d647e578fc81",
+        "id": "f93bf6e8c0a37a27",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The eyes that don't lie.md",
+            "file": "Bases/Books.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,11 +125,12 @@
         }
       },
       {
-        "id": "4bd572464f34b8ac",
+        "id": "a4b2b8f9972785d3",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Bases/Books.base",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,11 +139,12 @@
         }
       },
       {
-        "id": "e9832dffed45fe8f",
+        "id": "0bf0eb08e6b1a554",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Bases/Books.base",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,7 +154,7 @@
         }
       },
       {
-        "id": "596e86641b6c4378",
+        "id": "37cfdb79705116d9",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -167,56 +168,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-kanban:Create new board": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "2025-12-13 0202 To gain trust again.md",
-    "References/Book The Library of Babel.md",
-    "Attachments/Book The Library of Babel.jpg",
-    "Bases/Stories and Writings.base",
-    "2025-12-14 1239 Our brains are lazy because they're trying to protect us.md",
-    "References/Book Thinking Fast and Slow.md",
-    "2025-12-13 0202.md",
-    "References/Book Nudge.md",
-    "Attachments/Book Thinking Fast and Slow.jpg",
-    "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md",
-    "Attachments/Book Nudge.jpg",
-    "References/Book Agentic Artificial Intelligence.md",
-    "Attachments/Book Building AI Agents with LLMs RAG and Knowledge Graphs.jpg",
-    "The eyes that don't lie.md",
-    "Attachments/Book Agentic Artificial Intelligence.jpg",
-    "2025-12-12 1102 20 Letters for her.md",
-    "Untitled.md",
-    "Bases/Evergreen Notes.base",
-    "2025-12-11 1127 Regret is the most painful feeling.md",
-    "References/I Have a Crush at Work.md",
-    "_header_ HTML element includes navigation elements, heading, logos and elements meant at the top of page.md",
-    "Tree Shaking Works by analyzing and removing safe to remove code.md",
-    "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
-    "The Benefits of Tree Shaking.md",
-    "Pure function is a function with no side effects and returns save value given the same input.md",
-    "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
-    "000 - Inbox/2025-12-12 10-11 My Pelvic Floot stretching routine.md",
-    "000 - Inbox/Pelvic Floor Alt.md",
-    "100 - Map Of Contents/🏡 Dashboard.md",
-    "000 - Inbox/Tanstack Router.md",
-    "000 - Inbox/Learning Typescript conditional types and infer.md",
-    "Conditional types in typescript are a building blocks for a lot of complex type-level functionalities.md"
-  ]
+  "active": "01d2e174085626aa",
+  "lastOpenFiles": []
 }
