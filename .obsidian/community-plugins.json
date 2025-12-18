@@ -3,5 +3,8 @@
   "calendar",
   "obsidian-minimal-settings",
   "obsidian-hider",
-  "obsidian-book-search-plugin"
+  "tag-wrangler",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "obsidian-git"
 ]

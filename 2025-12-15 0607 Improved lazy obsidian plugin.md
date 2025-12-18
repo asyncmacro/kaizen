@@ -8,58 +8,82 @@ tags:
   - developments
 day: "[[2025-12-15]]"
 ---
+## 🚀 The Optimized Plugin Architecture
 
-There is already an obsidian plugin that makes obsidian plugins lazily loaded by deferring the plugins load. Four types of plugins:
-1. Instantly loaded plugins: which are plugins that will be loaded on obsidian startup like the default behavior of obsidian
-2. Short delayed plugins: a custom value that plugins will be loaded in, it's how many seconds after obsidian startup
-3. Long delayed plugins: similar to *short delayed plugins* but it usually longer wait
-4. Disabled plugins: plugins that will not be loaded
+This plugin manages the startup sequence of Obsidian by categorizing enabled plugins into five distinct loading behaviors.
 
-The flow of the plugin is good but it could be improved.
+### 1. The Five Loading Types
 
-## Redundancy of Long and Short delays
+The core of the plugin revolves around a single dropdown per plugin. Switching types is seamless, and custom values are preserved even if the type is toggled.
 
-The term Long and Short can be abused by the user *if the user gives short delay greater number than long delay*
+- **Instant:** Loads immediately upon Obsidian startup (default behavior).
+    
+- **Short Delayed:** Loads after a global $x$ delay (e.g., 5s). Best for common utilities.
+    
+- **Long Delayed:** Loads after a global $y$ delay (e.g., 20s). Best for heavy indexing plugins.
+    
+- **Custom:** Allows a specific, per-plugin delay in seconds. Switching a plugin to a custom value automatically sets its type to "Custom."
+    
+- **Triggered (Replaces Deferred):** The plugin remains unloaded until the user manually invokes it.
+    
+    - **How it works:** A "Lazy Command Palette" command allows the user to pick a plugin to load on the fly.
+        
+    - **Feedback:** Displays a "Loading [Plugin Name]..." notice to manage user expectations during initialization.
+        
 
-Some plugins could be wanted the same time but one more important than other, in this case I think having custom periods for each plugin is better. By giving plugins the same loading seconds by default we let the user decides which plugin loads when.
+---
 
-The only types will be: **Instant, Delayed, Disabled, and Deferred**
+### 2. Guardrails & Intelligence
 
-## Starting plugins custom commands 
+To prevent user error and ensure the "Lazy" system actually works, the following logic is implemented:
 
-With the current flow, if a user wants to load a disabled plugin he has to enable it (set whether instant, short, or long delay) then restart obsidian.
+- **The Time-Sanity Check:** * If a user sets the **Short Delay** global value higher than the **Long Delay**, the plugin will automatically swap them or flag an error. User input is never fully trusted.
+    
+- **The Specificity Hierarchy:**
+    
+    - When a plugin is set to **Short** or **Long**, it follows the global variables.
+        
+    - If a user inputs a specific number into the time field, the plugin type automatically switches to **Custom**. If they switch back to "Short," the custom value is hidden but saved in the background.
+        
+- **Startup Priority (The "Race" Guardrail):**
+    
+    - The plugin monitors its own position in the loading order. It will suggest (or force) itself to the top of the `community-plugins.json` list to ensure it can control the other plugins before they start their own load sequences.
+        
 
-A better solution to this issue is introducing a new category that could possibly replace *disabled* which is: *deferred*
+---
 
-What deferred does is that during startup, it will assign custom commands for each deferred plugin, when the custom command is executed it will start the plugin. This is better than having to change the type then restart.
+### 3. Streamlined Settings & UX
 
-## Customization of plugin load space time
- 
-The time between each plugin being loaded, for example if it is 10ms then the type between plugin A and plugin B being loaded is 10ms
+- **No "Disabled" Redundancy:** We have removed the "Disabled" type. Users should use Obsidian’s native toggle for disabling plugins to avoid "Split Truth" (where a plugin looks "On" in settings but is "Off" in the loader).
+    
+- **Command Pollution Control:** By using **Triggered** loading, plugins that are rarely used don't clutter the Command Palette or the Ribbon until they are actually needed.
+    
+- **One-Click Reset with Confirmation:**
+    
+    - A "Restore Defaults" button is available, but it is protected by a confirmation modal to prevent the accidental loss of a complex, hand-tuned loading setup.
+        
 
-By allowing customization of this, give user more power into customizing 
+---
 
-## Resetting settings to default
+### 4. Technical Data Structure
 
-In case the user want to get the default settings, he can restore it with a single click
+To support the "hidden but saved" custom values and the trigger logic, the settings are stored as follows:
 
-## Can be good ideas but not important 
+TypeScript
 
-### Categorizing plugins
+```
+interface LazyLoaderSettings {
+    globalShortDelay: number; // Default 'x'
+    globalLongDelay: number;  // Default 'y'
+    pluginRules: Record<string, {
+        id: string;
+        type: 'instant' | 'short' | 'long' | 'custom' | 'triggered';
+        customTime: number; // Stored even if type is 'short'
+        lastUsedTrigger?: string; 
+    }>;
+}
+```
 
-This can be a good feature to add, it essentially allows user to create custom categories which allows plugins to be loaded in batch on-demand
+---
 
-**Scenario:**
-The user is an author and a doctor, he has a lot of plugins that he uses throughout his day.
-
-But there's a plugins pollution which essentially means that plugins needed for his doctor woerk are interfering when he's writing for his books and vice versa.
-
-With categorization, he essentially defer all plugins only when `Enable Category` command is called. Now, his obsidian acts as the following:
-
-1. Instant plugins are loaded
-2. Delayed plugins are loaded based on time 
-3. When he gets into writing, he enable his author category 
-4. When needs his doctor category, he can disable his author category and enable his doctor category 
-
-**Extra featute:** adding the property or feature `disabled when` allows for toggle like behavior. Eg: author category will be disabled when the doctor feature is enabled.
-
+**Next Step:** Since we've finalized the flow, would you like me to help you write the **TypeScript class** for the Settings Tab that handles the "Auto-switch to Custom" logic when a user types in a number?
