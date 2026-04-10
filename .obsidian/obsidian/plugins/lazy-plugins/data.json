@@ -1,0 +1,54 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "dataview": {
+        "startupType": "short"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "short"
+      },
+      "templater-obsidian": {
+        "startupType": "short"
+      },
+      "vertical-tabs": {
+        "startupType": "instant"
+      },
+      "table-editor-obsidian": {
+        "startupType": "short"
+      },
+      "obsidian-kanban": {
+        "startupType": "disabled"
+      },
+      "obsidian-projects": {
+        "startupType": "short"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "remember-cursor-position": {
+        "startupType": "instant"
+      },
+      "obsidian-read-it-later": {
+        "startupType": "long"
+      },
+      "shiki-highlighter": {
+        "startupType": "short"
+      },
+      "better-word-count": {
+        "startupType": "instant"
+      }
+    },
+    "loadOrder": []
+  }
+}

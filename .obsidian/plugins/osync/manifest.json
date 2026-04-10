@@ -1,0 +1,10 @@
+{
+	"id": "osync",
+	"name": "OSync",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Seamless Cloudflare Workers sync for your vault with end-to-end encryption.",
+	"author": "Kareem",
+	"authorUrl": "https://github.com/kareem",
+	"isDesktopOnly": false
+}

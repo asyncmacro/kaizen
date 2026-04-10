@@ -1,0 +1,69 @@
+/* OSync Plugin Styles */
+
+/* Sync Activity Log Table */
+.osync-log-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-ui-smaller);
+}
+
+.osync-log-table th {
+  text-align: left;
+  padding: 6px 10px;
+  border-bottom: 2px solid var(--background-modifier-border);
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.osync-log-table td {
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  vertical-align: top;
+}
+
+.osync-log-table tr:last-child td {
+  border-bottom: none;
+}
+
+.osync-log-table tr:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* Status indicator in status bar */
+.osync-status-ready {
+  color: var(--text-success);
+}
+
+.osync-status-syncing {
+  color: var(--text-accent);
+}
+
+.osync-status-error {
+  color: var(--text-error);
+}
+
+/* Conflict modal styles */
+.osync-conflict-preview {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 10px;
+  margin: 10px 0;
+  font-family: var(--font-monospace);
+  font-size: var(--font-ui-smaller);
+  background-color: var(--background-secondary);
+}
+
+.osync-conflict-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.osync-conflict-buttons {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "5e38b7559440ab97",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6aebb2e63ae1ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81f4bfc981c6c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - Inbox/Template Literal Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template Literal Types"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c448679fc39fbacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe3ee6f8fbafad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727b86afcf7c4f98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dcb7274d6443aab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "087a288936a52016",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "082208ed4f794990",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2fa6c3f01e948e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bde3cd7caa29436",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f3485f8d83970323",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1b6a7ab00883c6e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "edcb38787d28199f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0149c35885128645",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "01e6745ee48f16f9",
+            "type": "leaf",
+            "state": {
+              "type": "osync-log-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "OSync Log"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "osync:OSync: Sync Now": false
+    }
+  },
+  "active": "727b86afcf7c4f98",
+  "lastOpenFiles": [
+    "000 - Inbox/updated from kaizen.md",
+    "000 - Inbox/Template Literal Types.md",
+    "dldza.md",
+    "Welcome.md",
+    "000 - Inbox/Untitllll.md",
+    "000 - Inbox/dkdkddzadazdazdaazd.md",
+    "000 - Inbox/kkkd.md",
+    "000 - Inbox/Untitled",
+    "000 - Inbox/Some note.md",
+    "000 - Inbox/jjhgkjhgkjhghkjidzoejd.md",
+    "000 - Inbox/David Talk.md",
+    "refract/assets/images/splash.png",
+    "refract/assets/images/notification-icon.png",
+    "refract/assets/images/icon.png",
+    "refract/assets/images/adaptive-icon.png",
+    "refract/assets/fonts/PlayfairDisplay-Regular.ttf",
+    "refract/assets/fonts/PlayfairDisplay-Italic.ttf",
+    "refract/assets/fonts/Inter-SemiBold.ttf",
+    "refract/assets/fonts/Inter-Regular.ttf",
+    "refract/assets/images",
+    "refract/assets/fonts",
+    "refract/assets",
+    "refract/src/components/organisms/SettingsModal.tsx",
+    "refract/src/components/organisms/DraftSheet.tsx",
+    "refract/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/runtime/README.md",
+    "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-xxxhdpi/ic_resume.png",
+    "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-xxhdpi/ic_resume.png",
+    "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-xhdpi/ic_resume.png",
+    "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-mdpi/ic_resume.png",
+    "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-hdpi/ic_resume.png",
+    "refract/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni-hack/README.md",
+    "refract/node_modules/react-native/ReactCommon/react/nativemodule/samples/ReactCommon/README.md",
+    "refract/node_modules/react-native/ReactCommon/react/nativemodule/devtoolsruntimesettings/README.md",
+    "refract/node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation/README.md",
+    "refract/node_modules/react-native/Libraries/LogBox/UI/LogBoxImages/loader.png",
+    "refract/node_modules/react-native/node_modules/@react-native/virtualized-lists/README.md",
+    "refract/node_modules/react-native/ReactCommon/react/runtime/README.md",
+    "refract/node_modules/react-native/ReactApple/Libraries/RCTFoundation/README.md",
+    "refract/node_modules/react-native/node_modules/minimatch/README.md",
+    "refract/node_modules/react-native/node_modules/hermes-parser/README.md",
+    "refract/node_modules/react-native/node_modules/glob/README.md",
+    "refract/node_modules/react-native/node_modules/hermes-estree/README.md",
+    "refract/node_modules/react-native/node_modules/commander/Readme.md",
+    "refract/node_modules/react-native/node_modules/brace-expansion/README.md",
+    "refract/node_modules/react-native/node_modules/balanced-match/README.md",
+    "refract/node_modules/react-native/node_modules/balanced-match/LICENSE.md"
+  ]
+}

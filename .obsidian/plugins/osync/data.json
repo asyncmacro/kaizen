@@ -1,0 +1,774 @@
+{
+  "settings": {
+    "serverUrl": "https://obsidian-sync.abdelkarimdjelalda.workers.dev",
+    "vaultId": "fresh-kaizen",
+    "encryptionPassword": "somepassword",
+    "deviceName": "My NixOS",
+    "deviceToken": "ead50239-aa6e-4ef3-80a1-2e40a15ad6b2",
+    "autoSync": true,
+    "syncIntervalSeconds": 30,
+    "excludedFolders": ".obsidian,.trash",
+    "conflictStrategy": "newest-wins",
+    "maxConcurrentUploads": 5,
+    "enableWebSocket": true
+  },
+  "syncState": {
+    "tsup Compiles TypeScript Projects with Zero Configuration.md": {
+      "localPath": "tsup Compiles TypeScript Projects with Zero Configuration.md",
+      "localHash": "9144ce31f33237f0d3fd118fc218c0364425afd5acb7f9292f82b40808144c96",
+      "remoteVersion": 0,
+      "remoteHash": "9144ce31f33237f0d3fd118fc218c0364425afd5acb7f9292f82b40808144c96",
+      "lastSyncTime": "2026-04-10T21:41:33.243Z"
+    },
+    "tsup Can be configured to customize the output by exporting defineConfig from the configuration file.md": {
+      "localPath": "tsup Can be configured to customize the output by exporting defineConfig from the configuration file.md",
+      "localHash": "461a63d61ba6158e8acdbe40c02af12008b6c4cbc59d7a6c3982d83ce25caa2a",
+      "remoteVersion": 0,
+      "remoteHash": "461a63d61ba6158e8acdbe40c02af12008b6c4cbc59d7a6c3982d83ce25caa2a",
+      "lastSyncTime": "2026-04-10T21:41:33.272Z"
+    },
+    "preventExtensions prevents extending functions while allow modifying them.md": {
+      "localPath": "preventExtensions prevents extending functions while allow modifying them.md",
+      "localHash": "a7cf2a680a0328d3d332d5e2783bb54dc08bd9fbcf7905d2cfe50920abd6eb3c",
+      "remoteVersion": 0,
+      "remoteHash": "a7cf2a680a0328d3d332d5e2783bb54dc08bd9fbcf7905d2cfe50920abd6eb3c",
+      "lastSyncTime": "2026-04-10T21:41:33.305Z"
+    },
+    "Use app.onError to handle thrown exceptions inside route handlers.md": {
+      "localPath": "Use app.onError to handle thrown exceptions inside route handlers.md",
+      "localHash": "a685f1f1cf6e8adfd1d1a40457568bb005259a25ac94768965c80f86f24b2104",
+      "remoteVersion": 0,
+      "remoteHash": "a685f1f1cf6e8adfd1d1a40457568bb005259a25ac94768965c80f86f24b2104",
+      "lastSyncTime": "2026-04-10T21:41:33.370Z"
+    },
+    "useState should not be used when the state is used internally only with no UI update.md": {
+      "localPath": "useState should not be used when the state is used internally only with no UI update.md",
+      "localHash": "012782f7d331e9d6912cecb00b3ed21cebe691345a13e0ca38447eb1315581bc",
+      "remoteVersion": 0,
+      "remoteHash": "012782f7d331e9d6912cecb00b3ed21cebe691345a13e0ca38447eb1315581bc",
+      "lastSyncTime": "2026-04-10T21:41:33.481Z"
+    },
+    "Tree Shaking Works by analyzing and removing safe to remove code.md": {
+      "localPath": "Tree Shaking Works by analyzing and removing safe to remove code.md",
+      "localHash": "7f1f2971da5cd25a78710a780a3cf28d4da41771c7741297e5e190c7efcfd073",
+      "remoteVersion": 0,
+      "remoteHash": "7f1f2971da5cd25a78710a780a3cf28d4da41771c7741297e5e190c7efcfd073",
+      "lastSyncTime": "2026-04-10T21:41:34.237Z"
+    },
+    "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md": {
+      "localPath": "Tree Shaking reduces JavaScript bundle size by removing unused function, variables and modules.md",
+      "localHash": "3253584fd7741e7c87a15c3ec4a465ad8cfb771e906ff37defe97760a14974f4",
+      "remoteVersion": 0,
+      "remoteHash": "3253584fd7741e7c87a15c3ec4a465ad8cfb771e906ff37defe97760a14974f4",
+      "lastSyncTime": "2026-04-10T21:41:34.276Z"
+    },
+    "Tree Shaking removes unused named imports and pure functions.md": {
+      "localPath": "Tree Shaking removes unused named imports and pure functions.md",
+      "localHash": "29f4f8893a135836f6228b5b982e19231462b715d29027696274a2434a2012cb",
+      "remoteVersion": 0,
+      "remoteHash": "29f4f8893a135836f6228b5b982e19231462b715d29027696274a2434a2012cb",
+      "lastSyncTime": "2026-04-10T21:41:34.295Z"
+    },
+    "Typescript conditionals distributes on unions by default.md": {
+      "localPath": "Typescript conditionals distributes on unions by default.md",
+      "localHash": "24109db7b025d2996b989252bd3271b76d8bf2f5b89c57713ca107f249fe3799",
+      "remoteVersion": 0,
+      "remoteHash": "24109db7b025d2996b989252bd3271b76d8bf2f5b89c57713ca107f249fe3799",
+      "lastSyncTime": "2026-04-10T21:41:34.315Z"
+    },
+    "Time Complexity Measures Algorithm Performance Relative to Input Size.md": {
+      "localPath": "Time Complexity Measures Algorithm Performance Relative to Input Size.md",
+      "localHash": "c2754723eb10fb5d68a51e8ba3af0034a0e2caa9b5bac1da219913cedb7b03fc",
+      "remoteVersion": 0,
+      "remoteHash": "c2754723eb10fb5d68a51e8ba3af0034a0e2caa9b5bac1da219913cedb7b03fc",
+      "lastSyncTime": "2026-04-10T21:41:34.414Z"
+    },
+    "The infer keyword is helpful extracting sub-types out of other types.md": {
+      "localPath": "The infer keyword is helpful extracting sub-types out of other types.md",
+      "localHash": "9d44c7317c853bebad94ed70749751320f97b0f3dbca86fdc778d8a5d991a9ae",
+      "remoteVersion": 0,
+      "remoteHash": "9d44c7317c853bebad94ed70749751320f97b0f3dbca86fdc778d8a5d991a9ae",
+      "lastSyncTime": "2026-04-10T21:41:35.179Z"
+    },
+    "The eyes that don't lie.md": {
+      "localPath": "The eyes that don't lie.md",
+      "localHash": "803e1540393e3769f28b2aa8e79943c03735400c625ca3d52b4801a4507bb644",
+      "remoteVersion": 0,
+      "remoteHash": "803e1540393e3769f28b2aa8e79943c03735400c625ca3d52b4801a4507bb644",
+      "lastSyncTime": "2026-04-10T21:41:35.225Z"
+    },
+    "The HTML _link_ elements allows embedding assets and resources.md": {
+      "localPath": "The HTML _link_ elements allows embedding assets and resources.md",
+      "localHash": "641394223f9047ff572eb79f1e914fe912e15a826600be8e5d2fc37b7a1eb52a",
+      "remoteVersion": 0,
+      "remoteHash": "641394223f9047ff572eb79f1e914fe912e15a826600be8e5d2fc37b7a1eb52a",
+      "lastSyncTime": "2026-04-10T21:41:35.251Z"
+    },
+    "The Benefits of Tree Shaking.md": {
+      "localPath": "The Benefits of Tree Shaking.md",
+      "localHash": "d74e316f5ef35bd2424797c6090f9a563a7dce9c17800e967b4b50c1132819da",
+      "remoteVersion": 0,
+      "remoteHash": "d74e316f5ef35bd2424797c6090f9a563a7dce9c17800e967b4b50c1132819da",
+      "lastSyncTime": "2026-04-10T21:41:35.252Z"
+    },
+    "The HTML _header_ Element Introduces Navigational Content for a Section.md": {
+      "localPath": "The HTML _header_ Element Introduces Navigational Content for a Section.md",
+      "localHash": "d6ace3a22242f22868a6642bc7ecd2e7f7aeb18cd4fe8d0db2255ad4fa327ebe",
+      "remoteVersion": 0,
+      "remoteHash": "d6ace3a22242f22868a6642bc7ecd2e7f7aeb18cd4fe8d0db2255ad4fa327ebe",
+      "lastSyncTime": "2026-04-10T21:41:35.323Z"
+    },
+    "Templates/Project Template.md": {
+      "localPath": "Templates/Project Template.md",
+      "localHash": "58aa3fc88bd5a7ca4be15046e195c15d43c7a93c86a251280345d9dfe3a8a3d7",
+      "remoteVersion": 0,
+      "remoteHash": "58aa3fc88bd5a7ca4be15046e195c15d43c7a93c86a251280345d9dfe3a8a3d7",
+      "lastSyncTime": "2026-04-10T21:41:36.147Z"
+    },
+    "Templates/Vocabulary Template.md": {
+      "localPath": "Templates/Vocabulary Template.md",
+      "localHash": "de1b557895db8ee6021a9a02d519481f5cd7d4db03ee9d97b74b1018dd654c57",
+      "remoteVersion": 0,
+      "remoteHash": "de1b557895db8ee6021a9a02d519481f5cd7d4db03ee9d97b74b1018dd654c57",
+      "lastSyncTime": "2026-04-10T21:41:36.161Z"
+    },
+    "Templates/Quote Template.md": {
+      "localPath": "Templates/Quote Template.md",
+      "localHash": "988ff4c789f1f9883daa1e40833657dfcb7265de1d798e8c5537f26a0627494d",
+      "remoteVersion": 0,
+      "remoteHash": "988ff4c789f1f9883daa1e40833657dfcb7265de1d798e8c5537f26a0627494d",
+      "lastSyncTime": "2026-04-10T21:41:36.200Z"
+    },
+    "Templates/Post Template.md": {
+      "localPath": "Templates/Post Template.md",
+      "localHash": "e676e1f10c154d47fdc30e6638760f59cf76145e0e727c0e5f4064c9465e1da7",
+      "remoteVersion": 0,
+      "remoteHash": "e676e1f10c154d47fdc30e6638760f59cf76145e0e727c0e5f4064c9465e1da7",
+      "lastSyncTime": "2026-04-10T21:41:36.397Z"
+    },
+    "Templates/Monthly Note Template.md": {
+      "localPath": "Templates/Monthly Note Template.md",
+      "localHash": "4b410ecb70bd89c341588b984e2edad14e64d1a95b2dc683e5c62afe51a05713",
+      "remoteVersion": 0,
+      "remoteHash": "4b410ecb70bd89c341588b984e2edad14e64d1a95b2dc683e5c62afe51a05713",
+      "lastSyncTime": "2026-04-10T21:41:36.465Z"
+    },
+    "Templates/Journal Template.md": {
+      "localPath": "Templates/Journal Template.md",
+      "localHash": "6f0503eab11a77923bfe16586abe8732197f99c169ebc3c21d886c5e9ce647ee",
+      "remoteVersion": 0,
+      "remoteHash": "6f0503eab11a77923bfe16586abe8732197f99c169ebc3c21d886c5e9ce647ee",
+      "lastSyncTime": "2026-04-10T21:41:37.295Z"
+    },
+    "Templates/Daily Note Template.md": {
+      "localPath": "Templates/Daily Note Template.md",
+      "localHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "remoteVersion": 0,
+      "remoteHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "lastSyncTime": "2026-04-10T21:41:37.317Z"
+    },
+    "Templates/Book Template.md": {
+      "localPath": "Templates/Book Template.md",
+      "localHash": "14b0dcf4d2a84b5a173017b2f760f1205fb66a86e73a16be28a05d68c61f78fc",
+      "remoteVersion": 0,
+      "remoteHash": "14b0dcf4d2a84b5a173017b2f760f1205fb66a86e73a16be28a05d68c61f78fc",
+      "lastSyncTime": "2026-04-10T21:41:37.493Z"
+    },
+    "Templates/Director Template.md": {
+      "localPath": "Templates/Director Template.md",
+      "localHash": "6c6589ca494047c1de7a7a02f8cee0a027743e018072e135ea438b71a46f2fc0",
+      "remoteVersion": 0,
+      "remoteHash": "6c6589ca494047c1de7a7a02f8cee0a027743e018072e135ea438b71a46f2fc0",
+      "lastSyncTime": "2026-04-10T21:41:37.742Z"
+    },
+    "Templates/Evergreen Template.md": {
+      "localPath": "Templates/Evergreen Template.md",
+      "localHash": "eaad9796f6f9fed0fd362a43a275d80bf6a327dfad810f78cb22875c71e50273",
+      "remoteVersion": 0,
+      "remoteHash": "eaad9796f6f9fed0fd362a43a275d80bf6a327dfad810f78cb22875c71e50273",
+      "lastSyncTime": "2026-04-10T21:41:37.842Z"
+    },
+    "Storybook is a workshop for isolated UI components testing.md": {
+      "localPath": "Storybook is a workshop for isolated UI components testing.md",
+      "localHash": "169d24a98987e6656c240e1f0b0b5d3531c1cd0a954dfda741192ff02815a6ff",
+      "remoteVersion": 0,
+      "remoteHash": "169d24a98987e6656c240e1f0b0b5d3531c1cd0a954dfda741192ff02815a6ff",
+      "lastSyncTime": "2026-04-10T21:41:38.703Z"
+    },
+    "Space complexity measures the space taken by algorithm's input and during execution.md": {
+      "localPath": "Space complexity measures the space taken by algorithm's input and during execution.md",
+      "localHash": "ab154d82ac1125e1e670e7397becea596286962d06102297cdf07b6a673dc1dd",
+      "remoteVersion": 0,
+      "remoteHash": "ab154d82ac1125e1e670e7397becea596286962d06102297cdf07b6a673dc1dd",
+      "lastSyncTime": "2026-04-10T21:41:38.755Z"
+    },
+    "Story - On a rainy day.md": {
+      "localPath": "Story - On a rainy day.md",
+      "localHash": "14e5cb265eebbc409517e71edf9484379349c5d52767614dd4cef710073abe0b",
+      "remoteVersion": 0,
+      "remoteHash": "14e5cb265eebbc409517e71edf9484379349c5d52767614dd4cef710073abe0b",
+      "lastSyncTime": "2026-04-10T21:41:38.816Z"
+    },
+    "Templates/Author Template.md": {
+      "localPath": "Templates/Author Template.md",
+      "localHash": "7c2a6c20399590be7f6dd76eff940e791da6d4f6ab1f655340a00f32dbc7aaff",
+      "remoteVersion": 0,
+      "remoteHash": "7c2a6c20399590be7f6dd76eff940e791da6d4f6ab1f655340a00f32dbc7aaff",
+      "lastSyncTime": "2026-04-10T21:41:38.817Z"
+    },
+    "Route handlers are functions meant to be executed for each incoming request.md": {
+      "localPath": "Route handlers are functions meant to be executed for each incoming request.md",
+      "localHash": "3c39c94bcd1fceae75682afe6b1e8f17f329dd4a1eb33d92a153f86ff4adf6f4",
+      "remoteVersion": 0,
+      "remoteHash": "3c39c94bcd1fceae75682afe6b1e8f17f329dd4a1eb33d92a153f86ff4adf6f4",
+      "lastSyncTime": "2026-04-10T21:41:38.931Z"
+    },
+    "References/The Hangover Part III.md": {
+      "localPath": "References/The Hangover Part III.md",
+      "localHash": "f3fceb76333870a69a6e8a275657a4c641735c3fef460ed396f80df54fa3f6d9",
+      "remoteVersion": 0,
+      "remoteHash": "f3fceb76333870a69a6e8a275657a4c641735c3fef460ed396f80df54fa3f6d9",
+      "lastSyncTime": "2026-04-10T21:41:39.660Z"
+    },
+    "References/The Hangover.md": {
+      "localPath": "References/The Hangover.md",
+      "localHash": "a07dec50aac3ddcdca9d8ca0bc72152de215bf77f0942f64f6082445bea98358",
+      "remoteVersion": 0,
+      "remoteHash": "a07dec50aac3ddcdca9d8ca0bc72152de215bf77f0942f64f6082445bea98358",
+      "lastSyncTime": "2026-04-10T21:41:39.685Z"
+    },
+    "References/The Hangover Part II.md": {
+      "localPath": "References/The Hangover Part II.md",
+      "localHash": "4297cd03317ecdf9bebfa5d40ca94672acf94c3eb9ccc4811ee949fcaf516976",
+      "remoteVersion": 0,
+      "remoteHash": "4297cd03317ecdf9bebfa5d40ca94672acf94c3eb9ccc4811ee949fcaf516976",
+      "lastSyncTime": "2026-04-10T21:41:39.764Z"
+    },
+    "References/Ted.md": {
+      "localPath": "References/Ted.md",
+      "localHash": "8d367cb19f985b1135c12b1a2299ba1b3e31d6266f79c331414fff881095a1ff",
+      "remoteVersion": 0,
+      "remoteHash": "8d367cb19f985b1135c12b1a2299ba1b3e31d6266f79c331414fff881095a1ff",
+      "lastSyncTime": "2026-04-10T21:41:39.787Z"
+    },
+    "RegExpRouter is Hono's router that uses RegEx similar to express.js.md": {
+      "localPath": "RegExpRouter is Hono's router that uses RegEx similar to express.js.md",
+      "localHash": "af01cf48cc3e7b80e47917286b685cb647f1748c15f75a636daa6c41f3dead8c",
+      "remoteVersion": 0,
+      "remoteHash": "af01cf48cc3e7b80e47917286b685cb647f1748c15f75a636daa6c41f3dead8c",
+      "lastSyncTime": "2026-04-10T21:41:39.819Z"
+    },
+    "References/Robert Greene.md": {
+      "localPath": "References/Robert Greene.md",
+      "localHash": "7c2a6c20399590be7f6dd76eff940e791da6d4f6ab1f655340a00f32dbc7aaff",
+      "remoteVersion": 0,
+      "remoteHash": "7c2a6c20399590be7f6dd76eff940e791da6d4f6ab1f655340a00f32dbc7aaff",
+      "lastSyncTime": "2026-04-10T21:41:40.636Z"
+    },
+    "References/Parasite.md": {
+      "localPath": "References/Parasite.md",
+      "localHash": "626f69e794d0a1d79435e2f796907d155d4a8d86aa670ee9e728868127d7c880",
+      "remoteVersion": 0,
+      "remoteHash": "626f69e794d0a1d79435e2f796907d155d4a8d86aa670ee9e728868127d7c880",
+      "lastSyncTime": "2026-04-10T21:41:40.660Z"
+    },
+    "References/Project X.md": {
+      "localPath": "References/Project X.md",
+      "localHash": "e7544644d523f42775a7bcdc251a506743173057c3cedaef162ac6a74d9ac20f",
+      "remoteVersion": 0,
+      "remoteHash": "e7544644d523f42775a7bcdc251a506743173057c3cedaef162ac6a74d9ac20f",
+      "lastSyncTime": "2026-04-10T21:41:40.691Z"
+    },
+    "References/Book Thinking Fast and Slow.md": {
+      "localPath": "References/Book Thinking Fast and Slow.md",
+      "localHash": "912fcbc1899b58e69b10b7dbb8265eabc8c2dcea43efae0fca3fb3e70c80679d",
+      "remoteVersion": 0,
+      "remoteHash": "912fcbc1899b58e69b10b7dbb8265eabc8c2dcea43efae0fca3fb3e70c80679d",
+      "lastSyncTime": "2026-04-10T21:41:40.762Z"
+    },
+    "References/I Have a Crush at Work.md": {
+      "localPath": "References/I Have a Crush at Work.md",
+      "localHash": "2bbb65046b78baeb3ff7b5070fe73fa389d50daadd00593c345a2284e4f46e49",
+      "remoteVersion": 0,
+      "remoteHash": "2bbb65046b78baeb3ff7b5070fe73fa389d50daadd00593c345a2284e4f46e49",
+      "lastSyncTime": "2026-04-10T21:41:41.026Z"
+    },
+    "References/Book The Checklist Manifesto.md": {
+      "localPath": "References/Book The Checklist Manifesto.md",
+      "localHash": "4655dd5d31ffa8580244e944503cb21e5b1be44af470a9999f374cb6b8f03060",
+      "remoteVersion": 0,
+      "remoteHash": "4655dd5d31ffa8580244e944503cb21e5b1be44af470a9999f374cb6b8f03060",
+      "lastSyncTime": "2026-04-10T21:41:41.774Z"
+    },
+    "References/Book The 48 Laws Of Power.md": {
+      "localPath": "References/Book The 48 Laws Of Power.md",
+      "localHash": "9a92686e4099b4631a7221e486bce53474a5871465cf4d093e50dbc52e90130a",
+      "remoteVersion": 0,
+      "remoteHash": "9a92686e4099b4631a7221e486bce53474a5871465cf4d093e50dbc52e90130a",
+      "lastSyncTime": "2026-04-10T21:41:41.884Z"
+    },
+    "References/Book The Library of Babel.md": {
+      "localPath": "References/Book The Library of Babel.md",
+      "localHash": "e2e5ff2a4423eaf75eb7461b5e828afd4ea0c00c9906a365c4fc25c3d2db8398",
+      "remoteVersion": 0,
+      "remoteHash": "e2e5ff2a4423eaf75eb7461b5e828afd4ea0c00c9906a365c4fc25c3d2db8398",
+      "lastSyncTime": "2026-04-10T21:41:41.910Z"
+    },
+    "References/Book Prealgebra 2e.md": {
+      "localPath": "References/Book Prealgebra 2e.md",
+      "localHash": "5a133acf4570d2b01ffc432df9433889b006eb0b8b0a585302967a89bbc93f6e",
+      "remoteVersion": 0,
+      "remoteHash": "5a133acf4570d2b01ffc432df9433889b006eb0b8b0a585302967a89bbc93f6e",
+      "lastSyncTime": "2026-04-10T21:41:42.151Z"
+    },
+    "References/Book Nudge.md": {
+      "localPath": "References/Book Nudge.md",
+      "localHash": "6b39f722ec79a5c53eccf2e3eec13ee40caad19a59e6587d9f7dcb675f370db8",
+      "remoteVersion": 0,
+      "remoteHash": "6b39f722ec79a5c53eccf2e3eec13ee40caad19a59e6587d9f7dcb675f370db8",
+      "lastSyncTime": "2026-04-10T21:41:42.296Z"
+    },
+    "References/Book Being Mortal.md": {
+      "localPath": "References/Book Being Mortal.md",
+      "localHash": "0c4686cde51dcdfbb0a604668f528c5bb94d4b5f883d5b6b041bdaeb351e6559",
+      "remoteVersion": 0,
+      "remoteHash": "0c4686cde51dcdfbb0a604668f528c5bb94d4b5f883d5b6b041bdaeb351e6559",
+      "lastSyncTime": "2026-04-10T21:41:43.080Z"
+    },
+    "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md": {
+      "localPath": "References/Book Building AI Agents with LLMs RAG and Knowledge Graphs.md",
+      "localHash": "883f3729b23d53f6a4a49ed64a2d8a7d6b68bbb8e97cbbea9c0576e45e4a4a29",
+      "remoteVersion": 0,
+      "remoteHash": "883f3729b23d53f6a4a49ed64a2d8a7d6b68bbb8e97cbbea9c0576e45e4a4a29",
+      "lastSyncTime": "2026-04-10T21:41:44.104Z"
+    },
+    "References/Book Agentic Artificial Intelligence.md": {
+      "localPath": "References/Book Agentic Artificial Intelligence.md",
+      "localHash": "043c484e3513bd9395713362dacc67b8e8c47bd71ad35c222957f0b39812211f",
+      "remoteVersion": 0,
+      "remoteHash": "043c484e3513bd9395713362dacc67b8e8c47bd71ad35c222957f0b39812211f",
+      "lastSyncTime": "2026-04-10T21:41:44.599Z"
+    },
+    "Recursive types in TypeScript breaks problems into sub-problems.md": {
+      "localPath": "Recursive types in TypeScript breaks problems into sub-problems.md",
+      "localHash": "251079d2a26264329025513fa4ddcbcb52ad67710d8c9dee95e97dae3789e67c",
+      "remoteVersion": 0,
+      "remoteHash": "251079d2a26264329025513fa4ddcbcb52ad67710d8c9dee95e97dae3789e67c",
+      "lastSyncTime": "2026-04-10T21:41:44.662Z"
+    },
+    "References/Book Deep Work.md": {
+      "localPath": "References/Book Deep Work.md",
+      "localHash": "bdcb4c7d181dd0b68afc7ef0314bf875283da9e4fa784aecb14fd5d0c7140a80",
+      "remoteVersion": 0,
+      "remoteHash": "bdcb4c7d181dd0b68afc7ef0314bf875283da9e4fa784aecb14fd5d0c7140a80",
+      "lastSyncTime": "2026-04-10T21:41:44.699Z"
+    },
+    "Pascal Bornet, Jochen Wirtz, Thomas  H. Davenport, David De Cremer, Brian Evergreen, Phil Fersht, Rakesh Gohel, Shail Khiyara, Pooja Sund, Nandan Mullakara.sync-conflict-2026-04-06T15-59-13-479Z.md": {
+      "localPath": "Pascal Bornet, Jochen Wirtz, Thomas  H. Davenport, David De Cremer, Brian Evergreen, Phil Fersht, Rakesh Gohel, Shail Khiyara, Pooja Sund, Nandan Mullakara.sync-conflict-2026-04-06T15-59-13-479Z.md",
+      "localHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "remoteVersion": 0,
+      "remoteHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "lastSyncTime": "2026-04-10T21:41:51.888Z"
+    },
+    "Pascal Bornet, Jochen Wirtz, Thomas  H. Davenport, David De Cremer, Brian Evergreen, Phil Fersht, Rakesh Gohel, Shail Khiyara, Pooja Sund, Nandan Mullakara.sync-conflict-2026-04-06T15-27-54-301Z.md": {
+      "localPath": "Pascal Bornet, Jochen Wirtz, Thomas  H. Davenport, David De Cremer, Brian Evergreen, Phil Fersht, Rakesh Gohel, Shail Khiyara, Pooja Sund, Nandan Mullakara.sync-conflict-2026-04-06T15-27-54-301Z.md",
+      "localHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "remoteVersion": 0,
+      "remoteHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "lastSyncTime": "2026-04-10T21:41:51.917Z"
+    },
+    "Pure function is a function with no side effects and returns save value given the same input.md": {
+      "localPath": "Pure function is a function with no side effects and returns save value given the same input.md",
+      "localHash": "1bd396b078a326bf9809413128c5c288a95c798093e73a08d5a519ef6765eece",
+      "remoteVersion": 0,
+      "remoteHash": "1bd396b078a326bf9809413128c5c288a95c798093e73a08d5a519ef6765eece",
+      "lastSyncTime": "2026-04-10T21:41:51.932Z"
+    },
+    "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md": {
+      "localPath": "Pure Function Are always predictable, testable, readable, maintainable and its calls are replaceable by actual values.md",
+      "localHash": "dace28cc60be9fc75c207cd6f870f5e4c2bf3f63509e7bf5ee82489c4b783f76",
+      "remoteVersion": 0,
+      "remoteHash": "dace28cc60be9fc75c207cd6f870f5e4c2bf3f63509e7bf5ee82489c4b783f76",
+      "lastSyncTime": "2026-04-10T21:41:52.013Z"
+    },
+    "PatternRouter is Hono's router that uses list to register routes.md": {
+      "localPath": "PatternRouter is Hono's router that uses list to register routes.md",
+      "localHash": "f4452e45708d5abdeb9f6e4573a56cc3ac0099d1ec2ad99ca171ab1020ef9243",
+      "remoteVersion": 0,
+      "remoteHash": "f4452e45708d5abdeb9f6e4573a56cc3ac0099d1ec2ad99ca171ab1020ef9243",
+      "lastSyncTime": "2026-04-10T21:41:52.014Z"
+    },
+    "Middlewares in Hono are functions that runs on all incoming requests.md": {
+      "localPath": "Middlewares in Hono are functions that runs on all incoming requests.md",
+      "localHash": "b1a1b7e168fd3113753fb3f03cbee3cf41167922dad3ab088e74812091cdedd4",
+      "remoteVersion": 0,
+      "remoteHash": "b1a1b7e168fd3113753fb3f03cbee3cf41167922dad3ab088e74812091cdedd4",
+      "lastSyncTime": "2026-04-10T21:41:52.895Z"
+    },
+    "Daily/2026-01-08.md": {
+      "localPath": "Daily/2026-01-08.md",
+      "localHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "remoteVersion": 0,
+      "remoteHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "lastSyncTime": "2026-04-10T21:41:52.923Z"
+    },
+    "Pascal Bornet, Jochen Wirtz, Thomas  H. Davenport, David De Cremer, Brian Evergreen, Phil Fersht, Rakesh Gohel, Shail Khiyara, Pooja Sund, Nandan Mullakara.md": {
+      "localPath": "Pascal Bornet, Jochen Wirtz, Thomas  H. Davenport, David De Cremer, Brian Evergreen, Phil Fersht, Rakesh Gohel, Shail Khiyara, Pooja Sund, Nandan Mullakara.md",
+      "localHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "remoteVersion": 0,
+      "remoteHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "lastSyncTime": "2026-04-10T21:41:52.926Z"
+    },
+    "Middlewares in Hono allows to attach custom values in context to use later.md": {
+      "localPath": "Middlewares in Hono allows to attach custom values in context to use later.md",
+      "localHash": "5d4f6e221b09c9861e1892447a612ae048a465d38625335ca568558a81a61f56",
+      "remoteVersion": 0,
+      "remoteHash": "5d4f6e221b09c9861e1892447a612ae048a465d38625335ca568558a81a61f56",
+      "lastSyncTime": "2026-04-10T21:41:52.971Z"
+    },
+    "Never the type that excludes certain conditional blocks.md": {
+      "localPath": "Never the type that excludes certain conditional blocks.md",
+      "localHash": "c8a9b6e64b317498ba738f045fa9bbf3ef98f2b8f163edb3ed1df242ddcbade1",
+      "remoteVersion": 0,
+      "remoteHash": "c8a9b6e64b317498ba738f045fa9bbf3ef98f2b8f163edb3ed1df242ddcbade1",
+      "lastSyncTime": "2026-04-10T21:41:52.972Z"
+    },
+    "Daily/2026-01-06.md": {
+      "localPath": "Daily/2026-01-06.md",
+      "localHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "remoteVersion": 0,
+      "remoteHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "lastSyncTime": "2026-04-10T21:41:53.708Z"
+    },
+    "Daily/2025-12-15.md": {
+      "localPath": "Daily/2025-12-15.md",
+      "localHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "remoteVersion": 0,
+      "remoteHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "lastSyncTime": "2026-04-10T21:41:53.754Z"
+    },
+    "Daily/2026-01-04.md": {
+      "localPath": "Daily/2026-01-04.md",
+      "localHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "remoteVersion": 0,
+      "remoteHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "lastSyncTime": "2026-04-10T21:41:53.755Z"
+    },
+    "Bases/Stories and Writings.base": {
+      "localPath": "Bases/Stories and Writings.base",
+      "localHash": "0ceacdc6b9732c4a024d59e26ce060d8eb92ee30d7d8b1f000ed7656949a0987",
+      "remoteVersion": 0,
+      "remoteHash": "0ceacdc6b9732c4a024d59e26ce060d8eb92ee30d7d8b1f000ed7656949a0987",
+      "lastSyncTime": "2026-04-10T21:41:53.756Z"
+    },
+    "Daily/2025-12-18.md": {
+      "localPath": "Daily/2025-12-18.md",
+      "localHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "remoteVersion": 0,
+      "remoteHash": "5ec89f0e0af133a4efdd5cfc8aa02e4220bd4e500637d0d24a6006ea6dfcf2a0",
+      "lastSyncTime": "2026-04-10T21:41:53.870Z"
+    },
+    "Bases/Shows.base": {
+      "localPath": "Bases/Shows.base",
+      "localHash": "4f3231b50cbea0a9a158f3208feb9a1391922fc6ee858332fe1910d377fc3417",
+      "remoteVersion": 0,
+      "remoteHash": "4f3231b50cbea0a9a158f3208feb9a1391922fc6ee858332fe1910d377fc3417",
+      "lastSyncTime": "2026-04-10T21:41:54.593Z"
+    },
+    "Bases/Evergreen Notes.base": {
+      "localPath": "Bases/Evergreen Notes.base",
+      "localHash": "3767171555a78357815047591631ce73a4bd01641722878e239f293a583347c6",
+      "remoteVersion": 0,
+      "remoteHash": "3767171555a78357815047591631ce73a4bd01641722878e239f293a583347c6",
+      "lastSyncTime": "2026-04-10T21:41:54.622Z"
+    },
+    "Bases/Daily.base": {
+      "localPath": "Bases/Daily.base",
+      "localHash": "b6f04b335a051963eb16a175e93b960faeef7cd3b4e5a34b78aa170d54b9d93b",
+      "remoteVersion": 0,
+      "remoteHash": "b6f04b335a051963eb16a175e93b960faeef7cd3b4e5a34b78aa170d54b9d93b",
+      "lastSyncTime": "2026-04-10T21:41:54.671Z"
+    },
+    "Bases/Books.base": {
+      "localPath": "Bases/Books.base",
+      "localHash": "bfe2516008e09fd96a5fff17ae59babfc87ea3f95edbc222c96ac4d21f8f4c4e",
+      "remoteVersion": 0,
+      "remoteHash": "bfe2516008e09fd96a5fff17ae59babfc87ea3f95edbc222c96ac4d21f8f4c4e",
+      "lastSyncTime": "2026-04-10T21:41:54.673Z"
+    },
+    "Bases/Journal.base": {
+      "localPath": "Bases/Journal.base",
+      "localHash": "471071b03112e0ae729184691c5495dd28ae67b953108b1ec994aeecaf4d1c19",
+      "remoteVersion": 0,
+      "remoteHash": "471071b03112e0ae729184691c5495dd28ae67b953108b1ec994aeecaf4d1c19",
+      "lastSyncTime": "2026-04-10T21:41:54.710Z"
+    },
+    "Attachments/Book The Library of Babel.jpg": {
+      "localPath": "Attachments/Book The Library of Babel.jpg",
+      "localHash": "914c18978575b4298dab42194e30861917f7e89a1cfe0739c4b95a7b63be6d08",
+      "remoteVersion": 0,
+      "remoteHash": "914c18978575b4298dab42194e30861917f7e89a1cfe0739c4b95a7b63be6d08",
+      "lastSyncTime": "2026-04-10T21:41:55.496Z"
+    },
+    "Attachments/Book The Checklist Manifesto.jpg": {
+      "localPath": "Attachments/Book The Checklist Manifesto.jpg",
+      "localHash": "0d9f35696ebe1730a411983dfc66ba73e7a6f7a382d6b7bc103d396afb06b198",
+      "remoteVersion": 0,
+      "remoteHash": "0d9f35696ebe1730a411983dfc66ba73e7a6f7a382d6b7bc103d396afb06b198",
+      "lastSyncTime": "2026-04-10T21:41:55.531Z"
+    },
+    "Attachments/Book The Concise 48 Laws Of Power.jpg": {
+      "localPath": "Attachments/Book The Concise 48 Laws Of Power.jpg",
+      "localHash": "dd34a9db2c9098c662197bbe4415e18e25b2b1874b2f0a720f6c80729e030fda",
+      "remoteVersion": 0,
+      "remoteHash": "dd34a9db2c9098c662197bbe4415e18e25b2b1874b2f0a720f6c80729e030fda",
+      "lastSyncTime": "2026-04-10T21:41:55.574Z"
+    },
+    "Attachments/Book Thinking Fast and Slow.jpg": {
+      "localPath": "Attachments/Book Thinking Fast and Slow.jpg",
+      "localHash": "906ddc07359ca06c50d3def27a0d92e3dfd9fd8691c1d7bc9d8fff581e9765ea",
+      "remoteVersion": 0,
+      "remoteHash": "906ddc07359ca06c50d3def27a0d92e3dfd9fd8691c1d7bc9d8fff581e9765ea",
+      "lastSyncTime": "2026-04-10T21:41:55.636Z"
+    },
+    "Attachments/Book The 48 Laws Of Power.jpg": {
+      "localPath": "Attachments/Book The 48 Laws Of Power.jpg",
+      "localHash": "8b004b8b6d25f3682b3b8f2b9e42885f31ed31d8f589e85bfe1c0b1ac6bf2afc",
+      "remoteVersion": 0,
+      "remoteHash": "8b004b8b6d25f3682b3b8f2b9e42885f31ed31d8f589e85bfe1c0b1ac6bf2afc",
+      "lastSyncTime": "2026-04-10T21:41:55.680Z"
+    },
+    "Attachments/Book Nudge.jpg": {
+      "localPath": "Attachments/Book Nudge.jpg",
+      "localHash": "73016d91c03a1506544026179bd962e420c247db75e4132b369a5dcc25f935a5",
+      "remoteVersion": 0,
+      "remoteHash": "73016d91c03a1506544026179bd962e420c247db75e4132b369a5dcc25f935a5",
+      "lastSyncTime": "2026-04-10T21:41:56.466Z"
+    },
+    "Attachments/Book Building AI Agents with LLMs RAG and Knowledge Graphs.jpg": {
+      "localPath": "Attachments/Book Building AI Agents with LLMs RAG and Knowledge Graphs.jpg",
+      "localHash": "cc26d849fd15e4e4a88ccaf03e5097926dc2c17d0de91dab2589fe5fdd32bec8",
+      "remoteVersion": 0,
+      "remoteHash": "cc26d849fd15e4e4a88ccaf03e5097926dc2c17d0de91dab2589fe5fdd32bec8",
+      "lastSyncTime": "2026-04-10T21:41:56.500Z"
+    },
+    "Attachments/Book Being Mortal.jpg": {
+      "localPath": "Attachments/Book Being Mortal.jpg",
+      "localHash": "1c2c49d81d839dda94c8644b69b136df33041dacf0e6aafaea3e89349703c9fe",
+      "remoteVersion": 0,
+      "remoteHash": "1c2c49d81d839dda94c8644b69b136df33041dacf0e6aafaea3e89349703c9fe",
+      "lastSyncTime": "2026-04-10T21:41:56.542Z"
+    },
+    "Attachments/Book Agentic Artificial Intelligence.jpg": {
+      "localPath": "Attachments/Book Agentic Artificial Intelligence.jpg",
+      "localHash": "0eb0bb0e0dd6f566e55258d215db3792a29fb30db367089d88386840e297603c",
+      "remoteVersion": 0,
+      "remoteHash": "0eb0bb0e0dd6f566e55258d215db3792a29fb30db367089d88386840e297603c",
+      "lastSyncTime": "2026-04-10T21:41:56.593Z"
+    },
+    "Attachments/Book Deep Work.jpg": {
+      "localPath": "Attachments/Book Deep Work.jpg",
+      "localHash": "a9ab6e42f0ce89b845d069860b377b1ecd88ae8743dec19489f498258c13cd2e",
+      "remoteVersion": 0,
+      "remoteHash": "a9ab6e42f0ce89b845d069860b377b1ecd88ae8743dec19489f498258c13cd2e",
+      "lastSyncTime": "2026-04-10T21:41:56.594Z"
+    },
+    "2026-03-23 0222 Stars.md": {
+      "localPath": "2026-03-23 0222 Stars.md",
+      "localHash": "97204ae3ae365e5bc3aabd583df8f9b97947f41f789b29895e730c4bdcb5b9c2",
+      "remoteVersion": 0,
+      "remoteHash": "97204ae3ae365e5bc3aabd583df8f9b97947f41f789b29895e730c4bdcb5b9c2",
+      "lastSyncTime": "2026-04-10T21:41:57.317Z"
+    },
+    "2026-03-22 0129 I was foolish.md": {
+      "localPath": "2026-03-22 0129 I was foolish.md",
+      "localHash": "5d7a13c97ada4e12d4c42f4a76774a8b186f84c40ae3221f8be23004f205d6e6",
+      "remoteVersion": 0,
+      "remoteHash": "5d7a13c97ada4e12d4c42f4a76774a8b186f84c40ae3221f8be23004f205d6e6",
+      "lastSyncTime": "2026-04-10T21:41:57.357Z"
+    },
+    "2026-03-19 0239 PE Routine.md": {
+      "localPath": "2026-03-19 0239 PE Routine.md",
+      "localHash": "f1a51ae88cda51ce087d8368aa8e9b509bfce6f29269b0a6b426fb4f5e46d8bc",
+      "remoteVersion": 0,
+      "remoteHash": "f1a51ae88cda51ce087d8368aa8e9b509bfce6f29269b0a6b426fb4f5e46d8bc",
+      "lastSyncTime": "2026-04-10T21:41:57.358Z"
+    },
+    "2026-03-16 0343 risking love is rewarding.md": {
+      "localPath": "2026-03-16 0343 risking love is rewarding.md",
+      "localHash": "28488cf9fe90d87c55cd32abda228e6ee4af906b72f85ab477184f57faa137d7",
+      "remoteVersion": 0,
+      "remoteHash": "28488cf9fe90d87c55cd32abda228e6ee4af906b72f85ab477184f57faa137d7",
+      "lastSyncTime": "2026-04-10T21:41:57.359Z"
+    },
+    "2026-03-19 0241 Pelvic floor routine.md": {
+      "localPath": "2026-03-19 0241 Pelvic floor routine.md",
+      "localHash": "bf0f7dee547bad19c6513db90cf912a1f4ebb7b5cf0e2cc15d70283a0116898a",
+      "remoteVersion": 0,
+      "remoteHash": "bf0f7dee547bad19c6513db90cf912a1f4ebb7b5cf0e2cc15d70283a0116898a",
+      "lastSyncTime": "2026-04-10T21:41:57.412Z"
+    },
+    "2026-03-15 0342 not today.md": {
+      "localPath": "2026-03-15 0342 not today.md",
+      "localHash": "6aab3ab26c44cfc2a075db0d0fa8450db91c5618eb300e46d142e2fc7c43e479",
+      "remoteVersion": 0,
+      "remoteHash": "6aab3ab26c44cfc2a075db0d0fa8450db91c5618eb300e46d142e2fc7c43e479",
+      "lastSyncTime": "2026-04-10T21:41:58.163Z"
+    },
+    "2026-03-14 0108 a closed door you're.md": {
+      "localPath": "2026-03-14 0108 a closed door you're.md",
+      "localHash": "1897575cc15530a34790e96e5c6b0a2e051d5ffb315a97938881fbc2aaad7785",
+      "remoteVersion": 0,
+      "remoteHash": "1897575cc15530a34790e96e5c6b0a2e051d5ffb315a97938881fbc2aaad7785",
+      "lastSyncTime": "2026-04-10T21:41:58.200Z"
+    },
+    "2026-03-01 1146.md": {
+      "localPath": "2026-03-01 1146.md",
+      "localHash": "4b12a68cc2d9827eca93181ebac342df146c5e70bfeefa379e3e7e308b1eb0f3",
+      "remoteVersion": 0,
+      "remoteHash": "4b12a68cc2d9827eca93181ebac342df146c5e70bfeefa379e3e7e308b1eb0f3",
+      "lastSyncTime": "2026-04-10T21:41:58.256Z"
+    },
+    "2026-02-20 1234 in your trust issues don't trust.md": {
+      "localPath": "2026-02-20 1234 in your trust issues don't trust.md",
+      "localHash": "26a5f92adb7ebaecd802f5c5977684d20984b5bf607d5f8baa213a5754ae8fcb",
+      "remoteVersion": 0,
+      "remoteHash": "26a5f92adb7ebaecd802f5c5977684d20984b5bf607d5f8baa213a5754ae8fcb",
+      "lastSyncTime": "2026-04-10T21:41:58.294Z"
+    },
+    "2026-02-24 0717 Algebra I study plan.md": {
+      "localPath": "2026-02-24 0717 Algebra I study plan.md",
+      "localHash": "050234a4a4e971109b8ebb22a80a2b003c11402d52cccb18c443ae892aa69630",
+      "remoteVersion": 0,
+      "remoteHash": "050234a4a4e971109b8ebb22a80a2b003c11402d52cccb18c443ae892aa69630",
+      "lastSyncTime": "2026-04-10T21:41:58.418Z"
+    },
+    "2026-01-08 0525 where is the beauty.md": {
+      "localPath": "2026-01-08 0525 where is the beauty.md",
+      "localHash": "293540265a5637ea85bac9db5d55671bf5ea45813d30650ddd4255b5035ae429",
+      "remoteVersion": 0,
+      "remoteHash": "293540265a5637ea85bac9db5d55671bf5ea45813d30650ddd4255b5035ae429",
+      "lastSyncTime": "2026-04-10T21:41:59.178Z"
+    },
+    "2026-01-04 0456 hop in my horse.md": {
+      "localPath": "2026-01-04 0456 hop in my horse.md",
+      "localHash": "4e599c4c7d5f3b066ed44fe21fd2f5d9ed22511bf7e9bf9ceb3a57028c95aeab",
+      "remoteVersion": 0,
+      "remoteHash": "4e599c4c7d5f3b066ed44fe21fd2f5d9ed22511bf7e9bf9ceb3a57028c95aeab",
+      "lastSyncTime": "2026-04-10T21:41:59.227Z"
+    },
+    "2026-01-06 1041 you only exist in my imagination.md": {
+      "localPath": "2026-01-06 1041 you only exist in my imagination.md",
+      "localHash": "ec25141c453134df25775daa6a8ca8f47c90b369b80cdf4228ee4917e6e18a72",
+      "remoteVersion": 0,
+      "remoteHash": "ec25141c453134df25775daa6a8ca8f47c90b369b80cdf4228ee4917e6e18a72",
+      "lastSyncTime": "2026-04-10T21:41:59.230Z"
+    },
+    "2026-01-20 0100 what are we.md": {
+      "localPath": "2026-01-20 0100 what are we.md",
+      "localHash": "994722550f2e0217b0f282227646e646cb65c6a3284e2bfdd2a5e40fad42ced5",
+      "remoteVersion": 0,
+      "remoteHash": "994722550f2e0217b0f282227646e646cb65c6a3284e2bfdd2a5e40fad42ced5",
+      "lastSyncTime": "2026-04-10T21:41:59.275Z"
+    },
+    "2026-01-06 1037.md": {
+      "localPath": "2026-01-06 1037.md",
+      "localHash": "ea501da7d31138c2a3f90cb8a7a0f18ab581e0b40a0f2d87f3fe5344e0a52991",
+      "remoteVersion": 0,
+      "remoteHash": "ea501da7d31138c2a3f90cb8a7a0f18ab581e0b40a0f2d87f3fe5344e0a52991",
+      "lastSyncTime": "2026-04-10T21:41:59.279Z"
+    },
+    "2025-12-13 0202 To gain trust again.md": {
+      "localPath": "2025-12-13 0202 To gain trust again.md",
+      "localHash": "105f172c2bb9d3cb731d85f459be6bf67481a21c7de6f952a8c9797998bcbe0d",
+      "remoteVersion": 0,
+      "remoteHash": "105f172c2bb9d3cb731d85f459be6bf67481a21c7de6f952a8c9797998bcbe0d",
+      "lastSyncTime": "2026-04-10T21:42:00.028Z"
+    },
+    "2025-12-16 1040 daunting.md": {
+      "localPath": "2025-12-16 1040 daunting.md",
+      "localHash": "4f3aae44955e403bf7e4fc167a12f30a9f8af0a22a99eb9e6bcfd6c7d9a0d1a1",
+      "remoteVersion": 0,
+      "remoteHash": "4f3aae44955e403bf7e4fc167a12f30a9f8af0a22a99eb9e6bcfd6c7d9a0d1a1",
+      "lastSyncTime": "2026-04-10T21:42:00.071Z"
+    },
+    "2025-12-15 0607 Improved lazy obsidian plugin.md": {
+      "localPath": "2025-12-15 0607 Improved lazy obsidian plugin.md",
+      "localHash": "1a9314b708dd7005563cef762cb42601f9f601d804c88e37b41677678304b865",
+      "remoteVersion": 0,
+      "remoteHash": "1a9314b708dd7005563cef762cb42601f9f601d804c88e37b41677678304b865",
+      "lastSyncTime": "2026-04-10T21:42:00.072Z"
+    },
+    "2025-12-18 1113 a reminder app.md": {
+      "localPath": "2025-12-18 1113 a reminder app.md",
+      "localHash": "e6e9ea44218f53944a6d2528c7fe7c2cc65aa07263b7730b86128ff485f3a1d5",
+      "remoteVersion": 0,
+      "remoteHash": "e6e9ea44218f53944a6d2528c7fe7c2cc65aa07263b7730b86128ff485f3a1d5",
+      "lastSyncTime": "2026-04-10T21:42:00.122Z"
+    },
+    "2025-12-14 1239 Our brains are lazy because they're trying to protect us.md": {
+      "localPath": "2025-12-14 1239 Our brains are lazy because they're trying to protect us.md",
+      "localHash": "cc4c56b1780f7a50836a73e0fc788c3f16d1a35fa7313f85086b175ccb6f8be1",
+      "remoteVersion": 0,
+      "remoteHash": "cc4c56b1780f7a50836a73e0fc788c3f16d1a35fa7313f85086b175ccb6f8be1",
+      "lastSyncTime": "2026-04-10T21:42:00.168Z"
+    },
+    "2025-12-11 1127 Regret is the most painful feeling.md": {
+      "localPath": "2025-12-11 1127 Regret is the most painful feeling.md",
+      "localHash": "0e87c8b5ba78ee1a4dbc568da904ea77785814b5bff8a67e05d297f2df904707",
+      "remoteVersion": 0,
+      "remoteHash": "0e87c8b5ba78ee1a4dbc568da904ea77785814b5bff8a67e05d297f2df904707",
+      "lastSyncTime": "2026-04-10T21:42:00.854Z"
+    },
+    "000 - Inbox/Pelvic Floor Alt.md": {
+      "localPath": "000 - Inbox/Pelvic Floor Alt.md",
+      "localHash": "930f0dcbe3766a9640828152e4c5dd4c62765bca1a2544cd91772fd480d23c18",
+      "remoteVersion": 0,
+      "remoteHash": "930f0dcbe3766a9640828152e4c5dd4c62765bca1a2544cd91772fd480d23c18",
+      "lastSyncTime": "2026-04-10T21:42:01.008Z"
+    },
+    "000 - Inbox/Learning Typescript conditional types and infer.md": {
+      "localPath": "000 - Inbox/Learning Typescript conditional types and infer.md",
+      "localHash": "0bf5d58737b9eb5ab26ebf0be62cdfeda3119d8fa015c55e2a69412794556d39",
+      "remoteVersion": 0,
+      "remoteHash": "0bf5d58737b9eb5ab26ebf0be62cdfeda3119d8fa015c55e2a69412794556d39",
+      "lastSyncTime": "2026-04-10T21:42:01.008Z"
+    },
+    "000 - Inbox/Template Literal Types.md": {
+      "localPath": "000 - Inbox/Template Literal Types.md",
+      "localHash": "1e5a5268ec13fdbf6e68ed149fcfa01dc480820236e261cfdd687ad86017d741",
+      "remoteVersion": 0,
+      "remoteHash": "1e5a5268ec13fdbf6e68ed149fcfa01dc480820236e261cfdd687ad86017d741",
+      "lastSyncTime": "2026-04-10T21:42:01.011Z"
+    },
+    "000 - Inbox/David Talk.md": {
+      "localPath": "000 - Inbox/David Talk.md",
+      "localHash": "f58cafb982afd157365ff99ab91d0af062b6ef2e5a44549954220e93d9d83694",
+      "remoteVersion": 0,
+      "remoteHash": "f58cafb982afd157365ff99ab91d0af062b6ef2e5a44549954220e93d9d83694",
+      "lastSyncTime": "2026-04-10T21:42:01.836Z"
+    },
+    "000 - Inbox/Advanced TypeScript Learning Map.md": {
+      "localPath": "000 - Inbox/Advanced TypeScript Learning Map.md",
+      "localHash": "3143444ac35384f8039ce2844ed337b4233f6216a042710bb0de5f4c4be20ae1",
+      "remoteVersion": 0,
+      "remoteHash": "3143444ac35384f8039ce2844ed337b4233f6216a042710bb0de5f4c4be20ae1",
+      "lastSyncTime": "2026-04-10T21:42:01.884Z"
+    },
+    "Welcome.md": {
+      "localPath": "Welcome.md",
+      "localHash": "ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8",
+      "remoteVersion": 3,
+      "remoteHash": "ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8",
+      "lastSyncTime": "2026-04-10T22:29:27.891Z"
+    },
+    "dldza.md": {
+      "localPath": "dldza.md",
+      "localHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "remoteVersion": 4,
+      "remoteHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "lastSyncTime": "2026-04-10T22:29:28.679Z"
+    }
+  },
+  "lastSyncTime": "2026-04-10T22:35:26.138Z"
+}
