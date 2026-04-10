@@ -6,10 +6,11 @@
     "deviceName": "My Laptop",
     "deviceToken": "cd9ba77e-500a-4655-b6fb-e943b84ccb9f",
     "autoSync": true,
-    "syncIntervalSeconds": 30,
+    "syncIntervalSeconds": 35,
     "excludedFolders": ".obsidian,.trash",
+    "excludedFiles": ".obsidian/workspace.json,.obsidian/workspace-mobile.json,.obsidian/app.json,.obsidian/appearance.json,.obsidian/hotkeys.json,.obsidian/core-plugins.json,.obsidian/community-plugins.json",
     "conflictStrategy": "newest-wins",
-    "maxConcurrentUploads": 5,
+    "maxConcurrentUploads": 12,
     "enableWebSocket": true
   },
   "syncState": {
@@ -741,13 +742,6 @@
       "remoteHash": "105f172c2bb9d3cb731d85f459be6bf67481a21c7de6f952a8c9797998bcbe0d",
       "lastSyncTime": "2026-04-10T23:22:38.334Z"
     },
-    "000 - Inbox/dang.md": {
-      "localPath": "000 - Inbox/dang.md",
-      "localHash": "b5f5a57b97119b988a49267e4e7c72dd4a4e87c025269512457486f30e66966a",
-      "remoteVersion": 0,
-      "remoteHash": "b5f5a57b97119b988a49267e4e7c72dd4a4e87c025269512457486f30e66966a",
-      "lastSyncTime": "2026-04-10T23:22:56.001Z"
-    },
     "000 - Inbox/Pelvic Floor Alt.md": {
       "localPath": "000 - Inbox/Pelvic Floor Alt.md",
       "localHash": "930f0dcbe3766a9640828152e4c5dd4c62765bca1a2544cd91772fd480d23c18",
@@ -762,20 +756,27 @@
       "remoteHash": "0bf5d58737b9eb5ab26ebf0be62cdfeda3119d8fa015c55e2a69412794556d39",
       "lastSyncTime": "2026-04-10T23:22:39.742Z"
     },
-    "000 - Inbox/David Talk.md": {
-      "localPath": "000 - Inbox/David Talk.md",
-      "localHash": "f58cafb982afd157365ff99ab91d0af062b6ef2e5a44549954220e93d9d83694",
-      "remoteVersion": 2,
-      "remoteHash": "f58cafb982afd157365ff99ab91d0af062b6ef2e5a44549954220e93d9d83694",
-      "lastSyncTime": "2026-04-10T23:22:40.096Z"
-    },
     "000 - Inbox/Advanced TypeScript Learning Map.md": {
       "localPath": "000 - Inbox/Advanced TypeScript Learning Map.md",
       "localHash": "3143444ac35384f8039ce2844ed337b4233f6216a042710bb0de5f4c4be20ae1",
       "remoteVersion": 2,
       "remoteHash": "3143444ac35384f8039ce2844ed337b4233f6216a042710bb0de5f4c4be20ae1",
       "lastSyncTime": "2026-04-10T23:22:40.441Z"
+    },
+    "000 - Inbox/David Talk - needs revision.md": {
+      "localPath": "000 - Inbox/David Talk - needs revision.md",
+      "localHash": "8fe24c195808e99cbb2522b20bc46c1a1de2c22a908c9a48741186589ba603c4",
+      "remoteVersion": 3,
+      "remoteHash": "8fe24c195808e99cbb2522b20bc46c1a1de2c22a908c9a48741186589ba603c4",
+      "lastSyncTime": "2026-04-10T23:34:20.877Z"
+    },
+    "000 - Inbox/dang.md": {
+      "localPath": "000 - Inbox/dang.md",
+      "localHash": "2be7ef957ae4f2c85e04cdf32479e6e5b1c8270e9ed6449bd336920a61f6ec8c",
+      "remoteVersion": 8,
+      "remoteHash": "2be7ef957ae4f2c85e04cdf32479e6e5b1c8270e9ed6449bd336920a61f6ec8c",
+      "lastSyncTime": "2026-04-10T23:34:20.456Z"
     }
   },
-  "lastSyncTime": "2026-04-10T23:22:56.312Z"
+  "lastSyncTime": "2026-04-10T23:47:40.417Z"
 }
