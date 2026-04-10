@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Inbox/Template Literal Types.md",
+                "file": "000 - Inbox/David Talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template Literal Types"
+              "title": "David Talk"
             }
           }
         ]
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 676.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +193,15 @@
       "osync:OSync: Sync Now": false
     }
   },
-  "active": "727b86afcf7c4f98",
+  "active": "f81f4bfc981c6c09",
   "lastOpenFiles": [
-    "000 - Inbox/updated from kaizen.md",
+    "Untitled.md",
+    "000 - Inbox/David Talk.md",
+    "000 - Inbox/dang.md",
+    "000 - Inbox/Learning Typescript conditional types and infer.md",
+    "000 - Inbox/Advanced TypeScript Learning Map.md",
     "000 - Inbox/Template Literal Types.md",
+    "000 - Inbox/updated from kaizen.md",
     "dldza.md",
     "Welcome.md",
     "000 - Inbox/Untitllll.md",
@@ -205,7 +210,6 @@
     "000 - Inbox/Untitled",
     "000 - Inbox/Some note.md",
     "000 - Inbox/jjhgkjhgkjhghkjidzoejd.md",
-    "000 - Inbox/David Talk.md",
     "refract/assets/images/splash.png",
     "refract/assets/images/notification-icon.png",
     "refract/assets/images/icon.png",
@@ -236,10 +240,6 @@
     "refract/node_modules/react-native/node_modules/minimatch/README.md",
     "refract/node_modules/react-native/node_modules/hermes-parser/README.md",
     "refract/node_modules/react-native/node_modules/glob/README.md",
-    "refract/node_modules/react-native/node_modules/hermes-estree/README.md",
-    "refract/node_modules/react-native/node_modules/commander/Readme.md",
-    "refract/node_modules/react-native/node_modules/brace-expansion/README.md",
-    "refract/node_modules/react-native/node_modules/balanced-match/README.md",
-    "refract/node_modules/react-native/node_modules/balanced-match/LICENSE.md"
+    "refract/node_modules/react-native/node_modules/hermes-estree/README.md"
   ]
 }
