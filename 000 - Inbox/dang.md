@@ -1,3 +1,2 @@
-dadz
-azd
-azddezjdzedzed
+Changes from phone
+added from pc

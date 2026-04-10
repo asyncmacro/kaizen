@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Inbox/David Talk.md",
+                "file": "000 - Inbox/dang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "David Talk"
+              "title": "dang"
             }
           }
         ]
@@ -195,11 +195,11 @@
   },
   "active": "f81f4bfc981c6c09",
   "lastOpenFiles": [
-    "Untitled.md",
-    "000 - Inbox/David Talk.md",
-    "000 - Inbox/dang.md",
-    "000 - Inbox/Learning Typescript conditional types and infer.md",
     "000 - Inbox/Advanced TypeScript Learning Map.md",
+    "000 - Inbox/dang.md",
+    "000 - Inbox/David Talk.md",
+    "Untitled.md",
+    "000 - Inbox/Learning Typescript conditional types and infer.md",
     "000 - Inbox/Template Literal Types.md",
     "000 - Inbox/updated from kaizen.md",
     "dldza.md",
