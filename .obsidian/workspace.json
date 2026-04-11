@@ -11,14 +11,10 @@
             "id": "f81f4bfc981c6c09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 - Inbox/Shared Note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Shared Note"
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +164,8 @@
             "state": {
               "type": "osync-log-view",
               "state": {},
-              "icon": "scroll",
-              "title": "OSync Log"
+              "icon": "lucide-ghost",
+              "title": "osync-log-view"
             }
           }
         ],
@@ -196,8 +192,8 @@
   },
   "active": "f81f4bfc981c6c09",
   "lastOpenFiles": [
-    "000 - Inbox/David Talk.md",
     "000 - Inbox/Shared Note.md",
+    "000 - Inbox/David Talk.md",
     "000 - Inbox/To be renamed again.md",
     "000 - Inbox/dang.md",
     "000 - Inbox/Advanced TypeScript Learning Map.md",
