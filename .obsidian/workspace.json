@@ -11,14 +11,10 @@
             "id": "f81f4bfc981c6c09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 - Inbox/David Talk - needs revision.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "David Talk - needs revision"
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +164,8 @@
             "state": {
               "type": "osync-log-view",
               "state": {},
-              "icon": "scroll",
-              "title": "OSync Log"
+              "icon": "lucide-ghost",
+              "title": "osync-log-view"
             }
           }
         ],
@@ -177,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 676.5
+    "width": 512,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +192,11 @@
   },
   "active": "f81f4bfc981c6c09",
   "lastOpenFiles": [
+    "000 - Inbox/Shared Note.md",
+    "000 - Inbox/David Talk.md",
+    "000 - Inbox/To be renamed again.md",
     "000 - Inbox/dang.md",
     "000 - Inbox/Advanced TypeScript Learning Map.md",
-    "000 - Inbox/David Talk - needs revision.md",
     "Untitled.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",
     "000 - Inbox/Template Literal Types.md",
@@ -238,8 +237,6 @@
     "refract/node_modules/react-native/ReactCommon/react/runtime/README.md",
     "refract/node_modules/react-native/ReactApple/Libraries/RCTFoundation/README.md",
     "refract/node_modules/react-native/node_modules/minimatch/README.md",
-    "refract/node_modules/react-native/node_modules/hermes-parser/README.md",
-    "refract/node_modules/react-native/node_modules/glob/README.md",
-    "refract/node_modules/react-native/node_modules/hermes-estree/README.md"
+    "refract/node_modules/react-native/node_modules/hermes-parser/README.md"
   ]
 }
