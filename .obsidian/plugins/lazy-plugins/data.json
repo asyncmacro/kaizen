@@ -101,6 +101,15 @@
       },
       "hot-reload": {
         "startupType": "long"
+      },
+      "obsidian-media-db-plugin": {
+        "startupType": "long"
+      },
+      "obsidian42-brat": {
+        "startupType": "long"
+      },
+      "logstravaganza": {
+        "startupType": "long"
       }
     }
   },

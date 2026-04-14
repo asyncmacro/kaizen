@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6aebb2e63ae1ac",
+        "id": "caa7e5331ca55f02",
         "type": "tabs",
         "children": [
           {
-            "id": "f81f4bfc981c6c09",
+            "id": "c4b14e87ce84e6f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000 - Inbox/David Talk.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "David Talk"
             }
           }
         ]
@@ -187,16 +191,34 @@
       "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "osync:OSync: Sync Now": false
+      "osync:OSync: Sync Now": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f81f4bfc981c6c09",
+  "active": "c4b14e87ce84e6f4",
   "lastOpenFiles": [
+    "000 - Inbox/console-log.V2322.2026-04-14.md",
+    "000 - Inbox/Advanced TypeScript Learning Map.md",
+    "000 - Inbox/console-log.V2322.2026-04-11.md",
+    "Templates/Season Template.md",
+    "Media DB/series/Kaii to Otome to Kamikakushi (2024).md",
+    "Media DB/series",
+    "Media DB",
+    "000 - Inbox/console-log.V2322.2026-04-13.md",
+    "References/Serie Mercy for None (2025).md",
+    "2026-01-06 1037.md",
+    "console-log.V2322.md",
+    "References/Serie The Blacklist (2013–2023).md",
+    "Templates/Book Template.md",
+    "Templates/Movie Template.md~",
+    "Templates/Manga Template.md",
+    "Templates/Serie Template.md",
+    "Templates/Movie Template.md",
+    "2026-04-10 0327 Obsidian alt.md",
     "000 - Inbox/Shared Note.md",
     "000 - Inbox/David Talk.md",
     "000 - Inbox/To be renamed again.md",
     "000 - Inbox/dang.md",
-    "000 - Inbox/Advanced TypeScript Learning Map.md",
     "Untitled.md",
     "000 - Inbox/Learning Typescript conditional types and infer.md",
     "000 - Inbox/Template Literal Types.md",
@@ -204,11 +226,7 @@
     "dldza.md",
     "Welcome.md",
     "000 - Inbox/Untitllll.md",
-    "000 - Inbox/dkdkddzadazdazdaazd.md",
-    "000 - Inbox/kkkd.md",
     "000 - Inbox/Untitled",
-    "000 - Inbox/Some note.md",
-    "000 - Inbox/jjhgkjhgkjhghkjidzoejd.md",
     "refract/assets/images/splash.png",
     "refract/assets/images/notification-icon.png",
     "refract/assets/images/icon.png",
@@ -219,24 +237,11 @@
     "refract/assets/fonts/Inter-Regular.ttf",
     "refract/assets/images",
     "refract/assets/fonts",
-    "refract/assets",
-    "refract/src/components/organisms/SettingsModal.tsx",
-    "refract/src/components/organisms/DraftSheet.tsx",
-    "refract/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/runtime/README.md",
     "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-xxxhdpi/ic_resume.png",
     "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-xxhdpi/ic_resume.png",
     "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-xhdpi/ic_resume.png",
     "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-mdpi/ic_resume.png",
     "refract/node_modules/react-native/ReactAndroid/src/main/res/devsupport/drawable-hdpi/ic_resume.png",
-    "refract/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni-hack/README.md",
-    "refract/node_modules/react-native/ReactCommon/react/nativemodule/samples/ReactCommon/README.md",
-    "refract/node_modules/react-native/ReactCommon/react/nativemodule/devtoolsruntimesettings/README.md",
-    "refract/node_modules/react-native/ReactApple/Libraries/RCTFoundation/RCTDeprecation/README.md",
-    "refract/node_modules/react-native/Libraries/LogBox/UI/LogBoxImages/loader.png",
-    "refract/node_modules/react-native/node_modules/@react-native/virtualized-lists/README.md",
-    "refract/node_modules/react-native/ReactCommon/react/runtime/README.md",
-    "refract/node_modules/react-native/ReactApple/Libraries/RCTFoundation/README.md",
-    "refract/node_modules/react-native/node_modules/minimatch/README.md",
-    "refract/node_modules/react-native/node_modules/hermes-parser/README.md"
+    "refract/node_modules/react-native/Libraries/LogBox/UI/LogBoxImages/loader.png"
   ]
 }
