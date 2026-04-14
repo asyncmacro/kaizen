@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "mProjectsCode/obsidian-media-db-plugin"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "mProjectsCode/obsidian-media-db-plugin",
+      "version": "0.8.0-canary.20260406T152718"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
