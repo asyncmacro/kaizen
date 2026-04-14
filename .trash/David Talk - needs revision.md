@@ -1,4 +1,4 @@
-Updated from mobile
+
 - use useRef when you dont need to show UI
 - use url as a state
 - use normal variables if its calculated

@@ -1,0 +1,7 @@
+{
+  "fileNameContainsDate": true,
+  "formatterID": "mdtable",
+  "outputFolder": "000 - Inbox",
+  "logLevel": "debug",
+  "debounceWrites": true
+}

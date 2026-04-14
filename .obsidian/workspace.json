@@ -192,11 +192,14 @@
       "bases:Create new base": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "osync:OSync: Sync Now": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
   "active": "c4b14e87ce84e6f4",
   "lastOpenFiles": [
+    "console-log.V2322.md",
     "000 - Inbox/console-log.V2322.2026-04-14.md",
     "000 - Inbox/Advanced TypeScript Learning Map.md",
     "000 - Inbox/console-log.V2322.2026-04-11.md",
@@ -207,7 +210,6 @@
     "000 - Inbox/console-log.V2322.2026-04-13.md",
     "References/Serie Mercy for None (2025).md",
     "2026-01-06 1037.md",
-    "console-log.V2322.md",
     "References/Serie The Blacklist (2013–2023).md",
     "Templates/Book Template.md",
     "Templates/Movie Template.md~",
